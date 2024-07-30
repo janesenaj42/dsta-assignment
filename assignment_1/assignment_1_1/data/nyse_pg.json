@@ -1,0 +1,6086 @@
+{
+  "pages": [
+    {
+      "bbox": [
+        0,
+        0,
+        2362,
+        3150
+      ],
+      "confidence": 0.9,
+      "page_id": 3,
+      "paragraphs": [
+        {
+          "bbox": [
+            253,
+            291,
+            500,
+            365
+          ],
+          "confidence": 0.93,
+          "paragraph_id": 1,
+          "lines": [
+            {
+              "bbox": [
+                253,
+                291,
+                500,
+                365
+              ],
+              "line_id": 1,
+              "text": "Dear",
+              "confidence": 0.9,
+              "uuid": "262a7eb0-b439-442e-a5a0-22801d2bb5f2"
+            }
+          ],
+          "text": "Dear",
+          "uuid": "93ebd07e-7b6a-47d6-8058-a7a68a11fc2e"
+        },
+        {
+          "bbox": [
+            248,
+            412,
+            977,
+            506
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 2,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                412,
+                977,
+                506
+              ],
+              "line_id": 1,
+              "text": "Shareowners,",
+              "confidence": 0.9,
+              "uuid": "b855a31e-f7c1-4c92-bb3c-42bc347ec3ef"
+            }
+          ],
+          "text": "Shareowners,",
+          "uuid": "5e2ad722-8e79-4f34-bc91-30a51d014c15"
+        },
+        {
+          "bbox": [
+            249,
+            571,
+            1035,
+            602
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 3,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                571,
+                1035,
+                602
+              ],
+              "line_id": 1,
+              "text": "Fiscal 2022 was another very strong year as the",
+              "confidence": 0.9,
+              "uuid": "6845a7a6-9594-47ad-8a7b-cdf753739198"
+            }
+          ],
+          "text": "Fiscal 2022 was another very strong year as the",
+          "uuid": "ea5ac5a5-b9fc-4100-b317-81ba0b0239dc"
+        },
+        {
+          "bbox": [
+            246,
+            621,
+            1057,
+            652
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 4,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                621,
+                1057,
+                652
+              ],
+              "line_id": 1,
+              "text": "execution of our integrated strategies continued",
+              "confidence": 0.9,
+              "uuid": "5363c182-3c61-42cf-ac5b-aaab3b334c7f"
+            }
+          ],
+          "text": "execution of our integrated strategies continued",
+          "uuid": "89b09a1a-ce07-4095-be66-1935205d88b3"
+        },
+        {
+          "bbox": [
+            246,
+            671,
+            1062,
+            702
+          ],
+          "confidence": 0.78,
+          "paragraph_id": 5,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                671,
+                1062,
+                702
+              ],
+              "line_id": 1,
+              "text": "to yield strong sales, earnings and cash results in",
+              "confidence": 0.9,
+              "uuid": "ca3f14de-7e5c-49e4-a65a-3561496fca09"
+            }
+          ],
+          "text": "to yield strong sales, earnings and cash results in",
+          "uuid": "31b59ee5-3147-4d25-bc0b-395abdf44216"
+        },
+        {
+          "bbox": [
+            247,
+            721,
+            1010,
+            752
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 6,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                721,
+                1010,
+                752
+              ],
+              "line_id": 1,
+              "text": "an incredibly difficult operating environment.",
+              "confidence": 0.9,
+              "uuid": "ce33698f-3bc6-494d-82dd-d46481b34f1b"
+            }
+          ],
+          "text": "an incredibly difficult operating environment.",
+          "uuid": "4dda8139-cb10-475b-91d4-45151fb5343b"
+        },
+        {
+          "bbox": [
+            244,
+            801,
+            1072,
+            832
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 7,
+          "lines": [
+            {
+              "bbox": [
+                244,
+                801,
+                1072,
+                832
+              ],
+              "line_id": 1,
+              "text": "Your Company delivered broad-based and strong",
+              "confidence": 0.9,
+              "uuid": "c92dbecb-15a2-4389-8c3b-df939d18f5ab"
+            }
+          ],
+          "text": "Your Company delivered broad-based and strong",
+          "uuid": "53c085c9-f55b-4e5d-9f2f-4a4eb193f7b0"
+        },
+        {
+          "bbox": [
+            246,
+            851,
+            1091,
+            882
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 8,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                851,
+                1091,
+                882
+              ],
+              "line_id": 1,
+              "text": "top-line growth across our categories and regions,",
+              "confidence": 0.9,
+              "uuid": "f5bdae69-c378-43fe-82cb-a893c369e2ae"
+            }
+          ],
+          "text": "top-line growth across our categories and regions,",
+          "uuid": "49fa3649-5aef-4227-8a8c-b2850aa529a7"
+        },
+        {
+          "bbox": [
+            246,
+            901,
+            1015,
+            932
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 9,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                901,
+                1015,
+                932
+              ],
+              "line_id": 1,
+              "text": "earnings growth in the face of significant cost",
+              "confidence": 0.9,
+              "uuid": "2e9d13b7-8a5f-4b28-9c17-de787189c31b"
+            }
+          ],
+          "text": "earnings growth in the face of significant cost",
+          "uuid": "7fa6cf13-322d-4d96-9150-cc9498f92552"
+        },
+        {
+          "bbox": [
+            249,
+            951,
+            1057,
+            982
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 10,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                951,
+                1057,
+                982
+              ],
+              "line_id": 1,
+              "text": "headwinds, and continued strong cash return to",
+              "confidence": 0.9,
+              "uuid": "85fa54ea-b249-4ade-be9c-3922afd49d40"
+            }
+          ],
+          "text": "headwinds, and continued strong cash return to",
+          "uuid": "6c33c38c-3cd2-40e3-a9ad-f5a9a408853b"
+        },
+        {
+          "bbox": [
+            245,
+            1001,
+            651,
+            1032
+          ],
+          "confidence": 0.81,
+          "paragraph_id": 11,
+          "lines": [
+            {
+              "bbox": [
+                245,
+                1001,
+                651,
+                1032
+              ],
+              "line_id": 1,
+              "text": "you, P&G's shareowners.",
+              "confidence": 0.9,
+              "uuid": "2b3a505b-d0a6-4dea-a98b-c949036eeeaa"
+            }
+          ],
+          "text": "you, P&G's shareowners.",
+          "uuid": "ec34691e-21fe-48ef-89c6-b144a3325635"
+        },
+        {
+          "bbox": [
+            249,
+            1081,
+            1172,
+            1112
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 12,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                1081,
+                1172,
+                1112
+              ],
+              "line_id": 1,
+              "text": "For the fiscal year, organic sales grew 7%, core earnings",
+              "confidence": 0.9,
+              "uuid": "090e4258-4974-4e31-abca-97f44c1f0e7e"
+            }
+          ],
+          "text": "For the fiscal year, organic sales grew 7%, core earnings",
+          "uuid": "abe0dda8-f054-4a44-937d-63866651f832"
+        },
+        {
+          "bbox": [
+            248,
+            1131,
+            1088,
+            1162
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 13,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1131,
+                1088,
+                1162
+              ],
+              "line_id": 1,
+              "text": "per share grew 3%, currency-neutral core earnings",
+              "confidence": 0.9,
+              "uuid": "c4d468d7-c437-428f-a7a1-3c1ef35d5c44"
+            }
+          ],
+          "text": "per share grew 3%, currency-neutral core earnings",
+          "uuid": "1259c3e8-9ad5-42b6-9adf-920a01bc9b4e"
+        },
+        {
+          "bbox": [
+            248,
+            1181,
+            1083,
+            1212
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 14,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1181,
+                1083,
+                1212
+              ],
+              "line_id": 1,
+              "text": "per share were up 5%, and adjusted free cash flow",
+              "confidence": 0.9,
+              "uuid": "3a78d517-9a34-437e-ae45-156dcbbb2fcc"
+            }
+          ],
+          "text": "per share were up 5%, and adjusted free cash flow",
+          "uuid": "bfe638c2-e730-4759-85e4-294657fc3195"
+        },
+        {
+          "bbox": [
+            248,
+            1231,
+            608,
+            1262
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 15,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1231,
+                608,
+                1262
+              ],
+              "line_id": 1,
+              "text": "productivity was 93%.",
+              "confidence": 0.9,
+              "uuid": "24441fc1-e5c6-46c2-895b-c02c78ed54b2"
+            }
+          ],
+          "text": "productivity was 93%.",
+          "uuid": "ba3366a7-28db-4370-8c0c-9ef6339907b9"
+        },
+        {
+          "bbox": [
+            247,
+            1311,
+            1139,
+            1342
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 16,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1311,
+                1139,
+                1342
+              ],
+              "line_id": 1,
+              "text": "Organic sales growth of 7% continues our strong top-",
+              "confidence": 0.9,
+              "uuid": "f376877f-7102-40bb-a824-b3971c808045"
+            }
+          ],
+          "text": "Organic sales growth of 7% continues our strong top-",
+          "uuid": "22d80377-83f4-4cc2-a38b-360d4f7ce3fe"
+        },
+        {
+          "bbox": [
+            249,
+            1361,
+            1133,
+            1392
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 17,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                1361,
+                1133,
+                1392
+              ],
+              "line_id": 1,
+              "text": "line momentum, which is up 13% on a two-year stack",
+              "confidence": 0.9,
+              "uuid": "3b4c06b9-0727-46d8-a326-8bc3b45282cf"
+            }
+          ],
+          "text": "line momentum, which is up 13% on a two-year stack",
+          "uuid": "8014dc87-ce91-4f7f-8716-d68d65c3784f"
+        },
+        {
+          "bbox": [
+            248,
+            1411,
+            1085,
+            1442
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 18,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1411,
+                1085,
+                1442
+              ],
+              "line_id": 1,
+              "text": "(across fiscal years 2021 and 2022) and up 19% on a",
+              "confidence": 0.9,
+              "uuid": "ccae5b62-c92a-401f-8380-e845f3d35301"
+            }
+          ],
+          "text": "(across fiscal years 2021 and 2022) and up 19% on a",
+          "uuid": "1c578c97-04cc-4db9-b407-b91806a623ce"
+        },
+        {
+          "bbox": [
+            246,
+            1461,
+            1179,
+            1492
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 19,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1461,
+                1179,
+                1492
+              ],
+              "line_id": 1,
+              "text": "three-year stack (across fiscal years 2020, 2021 and 2022).",
+              "confidence": 0.9,
+              "uuid": "d3c821bc-2d16-40e8-a073-8bb484108320"
+            }
+          ],
+          "text": "three-year stack (across fiscal years 2020, 2021 and 2022).",
+          "uuid": "fe0fd00d-7dfe-4370-9754-a907d5e0bab1"
+        },
+        {
+          "bbox": [
+            247,
+            1541,
+            1173,
+            1572
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 20,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1541,
+                1173,
+                1572
+              ],
+              "line_id": 1,
+              "text": "Growth this fiscal year was broad-based across business",
+              "confidence": 0.9,
+              "uuid": "a10ee4bc-3eea-425b-ac4c-e1eaf6e59e49"
+            }
+          ],
+          "text": "Growth this fiscal year was broad-based across business",
+          "uuid": "11c65a2c-011a-43e1-b25c-6b76effb5dac"
+        },
+        {
+          "bbox": [
+            248,
+            1587,
+            1087,
+            1626
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 21,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1587,
+                1087,
+                1626
+              ],
+              "line_id": 1,
+              "text": "units, with all 10 of our categories growing organic",
+              "confidence": 0.9,
+              "uuid": "8c128757-e297-4c5b-b0c8-0f26a6029754"
+            }
+          ],
+          "text": "units, with all 10 of our categories growing organic",
+          "uuid": "ed972217-5c87-41d1-b0d9-583ac983b7aa"
+        },
+        {
+          "bbox": [
+            247,
+            1641,
+            1150,
+            1672
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 22,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1641,
+                1150,
+                1672
+              ],
+              "line_id": 1,
+              "text": "sales. Personal Health Care grew 20%. Fabric Care and",
+              "confidence": 0.9,
+              "uuid": "e46962f3-50f8-41c5-b9db-87d52455facd"
+            }
+          ],
+          "text": "sales. Personal Health Care grew 20%. Fabric Care and",
+          "uuid": "3ea1c619-aeae-4fa6-9183-f85838cc6701"
+        },
+        {
+          "bbox": [
+            249,
+            1691,
+            1132,
+            1722
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 23,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                1691,
+                1132,
+                1722
+              ],
+              "line_id": 1,
+              "text": "Feminine Care grew double digits. Baby Care was up",
+              "confidence": 0.9,
+              "uuid": "06f58b30-09cd-411e-ade1-1f5fc2640971"
+            }
+          ],
+          "text": "Feminine Care grew double digits. Baby Care was up",
+          "uuid": "49efaa33-b50a-4e7e-8eda-a5c20e3e5fce"
+        },
+        {
+          "bbox": [
+            249,
+            1741,
+            1106,
+            1772
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 24,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                1741,
+                1106,
+                1772
+              ],
+              "line_id": 1,
+              "text": "high single digits. Oral Care and Grooming were up",
+              "confidence": 0.9,
+              "uuid": "2a837576-eb4d-455a-8d76-32b4fdc0a389"
+            }
+          ],
+          "text": "high single digits. Oral Care and Grooming were up",
+          "uuid": "273483e6-39fe-4773-b156-4fc37bcc6682"
+        },
+        {
+          "bbox": [
+            248,
+            1791,
+            1177,
+            1822
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 25,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1791,
+                1177,
+                1822
+              ],
+              "line_id": 1,
+              "text": "mid-single digits. Hair Care, Home Care, Skin & Personal",
+              "confidence": 0.9,
+              "uuid": "57a0186b-5f82-47d6-863a-ee544c13684d"
+            }
+          ],
+          "text": "mid-single digits. Hair Care, Home Care, Skin & Personal",
+          "uuid": "dd31b535-f33c-46cc-9e11-20cc15126dd6"
+        },
+        {
+          "bbox": [
+            247,
+            1841,
+            1074,
+            1872
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 26,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1841,
+                1074,
+                1872
+              ],
+              "line_id": 1,
+              "text": "Care and Family Care each grew low single digits.",
+              "confidence": 0.9,
+              "uuid": "b11a1232-a573-4cac-8000-8db913061f82"
+            }
+          ],
+          "text": "Care and Family Care each grew low single digits.",
+          "uuid": "74fc3ef6-5279-43db-b572-e977a8fb9909"
+        },
+        {
+          "bbox": [
+            249,
+            1921,
+            1046,
+            1952
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 27,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                1921,
+                1046,
+                1952
+              ],
+              "line_id": 1,
+              "text": "Focus markets grew 5% and Enterprise markets",
+              "confidence": 0.9,
+              "uuid": "0258700a-19ee-44e9-93c4-aea673f30e8a"
+            }
+          ],
+          "text": "Focus markets grew 5% and Enterprise markets",
+          "uuid": "fc7f7487-cc17-4af8-8349-9f0c824b761b"
+        },
+        {
+          "bbox": [
+            246,
+            1968,
+            460,
+            2006
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 28,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1968,
+                460,
+                2006
+              ],
+              "line_id": 1,
+              "text": "were up 10%.",
+              "confidence": 0.9,
+              "uuid": "f234f420-408e-4f82-acd9-a9a343ca0468"
+            }
+          ],
+          "text": "were up 10%.",
+          "uuid": "518d748d-6294-463f-900e-c130a0a17ae6"
+        },
+        {
+          "bbox": [
+            246,
+            2051,
+            1106,
+            2082
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 29,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2051,
+                1106,
+                2082
+              ],
+              "line_id": 1,
+              "text": "We delivered strong results in our largest and most",
+              "confidence": 0.9,
+              "uuid": "29037f4f-f568-401f-b779-9ae70a6e0c74"
+            }
+          ],
+          "text": "We delivered strong results in our largest and most",
+          "uuid": "4c4eeb25-2341-42b1-aef4-f8dc175e0a8b"
+        },
+        {
+          "bbox": [
+            248,
+            2101,
+            1076,
+            2132
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 30,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                2101,
+                1076,
+                2132
+              ],
+              "line_id": 1,
+              "text": "profitable market, the United States, with organic",
+              "confidence": 0.9,
+              "uuid": "eaf6d4a5-57e3-41f4-b766-bc684b924f8b"
+            }
+          ],
+          "text": "profitable market, the United States, with organic",
+          "uuid": "4f1895f4-9958-44ae-96e8-80e6496a5223"
+        },
+        {
+          "bbox": [
+            247,
+            2151,
+            543,
+            2182
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 31,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                2151,
+                543,
+                2182
+              ],
+              "line_id": 1,
+              "text": "sales growing 8%.",
+              "confidence": 0.9,
+              "uuid": "1cdace55-375b-4051-8587-ca12c615a48b"
+            }
+          ],
+          "text": "sales growing 8%.",
+          "uuid": "1f162fd5-ce7e-4eab-8970-8143ae433958"
+        },
+        {
+          "bbox": [
+            249,
+            2231,
+            1093,
+            2262
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 32,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                2231,
+                1093,
+                2262
+              ],
+              "line_id": 1,
+              "text": "E-commerce sales increased 11%, representing 14%",
+              "confidence": 0.9,
+              "uuid": "0070db0c-0edf-4ddc-8973-415fe3745a6a"
+            }
+          ],
+          "text": "E-commerce sales increased 11%, representing 14%",
+          "uuid": "1a74fbf7-768d-4d43-a82b-b60477605f06"
+        },
+        {
+          "bbox": [
+            246,
+            2281,
+            632,
+            2312
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 33,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2281,
+                632,
+                2312
+              ],
+              "line_id": 1,
+              "text": "of total Company sales.",
+              "confidence": 0.9,
+              "uuid": "80eeb226-f0dc-4abe-b3b2-e476046f605f"
+            }
+          ],
+          "text": "of total Company sales.",
+          "uuid": "3ab61e82-1afd-4dc2-92f5-9b0fac43ca1b"
+        },
+        {
+          "bbox": [
+            247,
+            2361,
+            1084,
+            2392
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 34,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                2361,
+                1084,
+                2392
+              ],
+              "line_id": 1,
+              "text": "Global aggregate market share increased 50 basis",
+              "confidence": 0.9,
+              "uuid": "b074cad5-4997-4d16-8243-1f7aa4242fde"
+            }
+          ],
+          "text": "Global aggregate market share increased 50 basis",
+          "uuid": "ad4a149f-80cc-457c-bd8c-4fd64b6c2c17"
+        },
+        {
+          "bbox": [
+            248,
+            2407,
+            1005,
+            2442
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 35,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                2407,
+                1005,
+                2442
+              ],
+              "line_id": 1,
+              "text": "points, and 38 of our top 50 category/country",
+              "confidence": 0.9,
+              "uuid": "7fc7d158-3acd-47ab-b0d4-943afcf9fad2"
+            }
+          ],
+          "text": "points, and 38 of our top 50 category/country",
+          "uuid": "a733aa75-9e36-4b79-96a9-8fe3d84df4e4"
+        },
+        {
+          "bbox": [
+            304,
+            2627,
+            1126,
+            2703
+          ],
+          "confidence": 0.79,
+          "paragraph_id": 36,
+          "lines": [
+            {
+              "bbox": [
+                304,
+                2627,
+                1126,
+                2703
+              ],
+              "line_id": 1,
+              "text": "+7% +3% 93%",
+              "confidence": 0.9,
+              "uuid": "e4f14ba4-e783-438d-998f-dc1c53899a60"
+            }
+          ],
+          "text": "+7% +3% 93%",
+          "uuid": "e7fcb8dc-e2b9-4ba7-9bda-de4822b6c5f0"
+        },
+        {
+          "bbox": [
+            632,
+            2858,
+            793,
+            2882
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 37,
+          "lines": [
+            {
+              "bbox": [
+                632,
+                2858,
+                793,
+                2882
+              ],
+              "line_id": 1,
+              "text": "Core EPS",
+              "confidence": 0.9,
+              "uuid": "540c12e6-1dc3-4bac-8475-a6562bcd1ad6"
+            }
+          ],
+          "text": "Core EPS",
+          "uuid": "9d12b72f-0447-45e5-8637-aee116a2efe7"
+        },
+        {
+          "bbox": [
+            646,
+            2907,
+            778,
+            2932
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 38,
+          "lines": [
+            {
+              "bbox": [
+                646,
+                2907,
+                778,
+                2932
+              ],
+              "line_id": 1,
+              "text": "Growth",
+              "confidence": 0.9,
+              "uuid": "bc640437-903b-4875-b12b-b0d053740657"
+            }
+          ],
+          "text": "Growth",
+          "uuid": "d5a29d02-e74d-4a89-8b82-2e8115851928"
+        },
+        {
+          "bbox": [
+            899,
+            2855,
+            1151,
+            2888
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 39,
+          "lines": [
+            {
+              "bbox": [
+                899,
+                2855,
+                1151,
+                2888
+              ],
+              "line_id": 1,
+              "text": "Adjusted Free",
+              "confidence": 0.9,
+              "uuid": "df8c1096-a8ee-46df-bb6b-076d67bab73f"
+            }
+          ],
+          "text": "Adjusted Free",
+          "uuid": "227c6fbf-9c27-4111-8943-89e5cd5b6b43"
+        },
+        {
+          "bbox": [
+            934,
+            2907,
+            1118,
+            2932
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 40,
+          "lines": [
+            {
+              "bbox": [
+                934,
+                2907,
+                1118,
+                2932
+              ],
+              "line_id": 1,
+              "text": "Cash Flow",
+              "confidence": 0.9,
+              "uuid": "b3d5ee46-f5ad-4673-bb7d-823ee84b8528"
+            }
+          ],
+          "text": "Cash Flow",
+          "uuid": "84c079a6-32c7-431c-b3c2-2920dd03ba92"
+        },
+        {
+          "bbox": [
+            915,
+            2955,
+            1139,
+            2988
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 41,
+          "lines": [
+            {
+              "bbox": [
+                915,
+                2955,
+                1139,
+                2988
+              ],
+              "line_id": 1,
+              "text": "Productivity",
+              "confidence": 0.9,
+              "uuid": "28f22ef9-6aba-4219-99f2-57f61febb141"
+            }
+          ],
+          "text": "Productivity",
+          "uuid": "a0f260af-a74c-4162-a2ac-584306f2506f"
+        },
+        {
+          "bbox": [
+            278,
+            2855,
+            524,
+            2889
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 42,
+          "lines": [
+            {
+              "bbox": [
+                278,
+                2855,
+                524,
+                2889
+              ],
+              "line_id": 1,
+              "text": "Organic Sales",
+              "confidence": 0.9,
+              "uuid": "b0764fcc-5043-4038-9102-45346d720011"
+            }
+          ],
+          "text": "Organic Sales",
+          "uuid": "c2aa84a2-9e50-492d-bcca-bfa9b3c24bd8"
+        },
+        {
+          "bbox": [
+            334,
+            2907,
+            466,
+            2932
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 43,
+          "lines": [
+            {
+              "bbox": [
+                334,
+                2907,
+                466,
+                2932
+              ],
+              "line_id": 1,
+              "text": "Growth",
+              "confidence": 0.9,
+              "uuid": "3b68490e-1dd1-43f7-808a-3017662c0291"
+            }
+          ],
+          "text": "Growth",
+          "uuid": "c0bcf8dc-aa7f-47d1-992e-018420b4ffac"
+        },
+        {
+          "bbox": [
+            1396,
+            154,
+            2086,
+            760
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 44,
+          "lines": [
+            {
+              "bbox": [
+                1396,
+                154,
+                2086,
+                760
+              ],
+              "line_id": 1,
+              "text": " ",
+              "confidence": 0.9,
+              "uuid": "5012b5bf-36df-4317-a5cb-a4a7ad8155ca"
+            }
+          ],
+          "text": " ",
+          "uuid": "64a915e5-2583-42ee-8fdf-ab7c1d3b7900"
+        },
+        {
+          "bbox": [
+            1536,
+            820,
+            1914,
+            848
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 45,
+          "lines": [
+            {
+              "bbox": [
+                1536,
+                820,
+                1914,
+                848
+              ],
+              "line_id": 1,
+              "text": "JON R. MOELLER",
+              "confidence": 0.9,
+              "uuid": "ed03bf43-7b50-4e13-93e0-9391de3f6cd3"
+            }
+          ],
+          "text": "JON R. MOELLER",
+          "uuid": "a3b750eb-00c0-4277-86ce-9fd30cd11788"
+        },
+        {
+          "bbox": [
+            1501,
+            887,
+            1949,
+            921
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 46,
+          "lines": [
+            {
+              "bbox": [
+                1501,
+                887,
+                1949,
+                921
+              ],
+              "line_id": 1,
+              "text": "Chairman of the Board,",
+              "confidence": 0.9,
+              "uuid": "4d52c2e7-f5fc-4d07-a10c-df63edf601ea"
+            }
+          ],
+          "text": "Chairman of the Board,",
+          "uuid": "463a935d-1b3d-4476-ac8e-eda9a106d56c"
+        },
+        {
+          "bbox": [
+            1368,
+            937,
+            2086,
+            966
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 47,
+          "lines": [
+            {
+              "bbox": [
+                1368,
+                937,
+                2086,
+                966
+              ],
+              "line_id": 1,
+              "text": "President and Chief Executive Officer",
+              "confidence": 0.9,
+              "uuid": "f062b582-e6e2-4c7f-9d40-125a1416d03c"
+            }
+          ],
+          "text": "President and Chief Executive Officer",
+          "uuid": "d96b912c-be58-4819-82c7-059829024cfd"
+        },
+        {
+          "bbox": [
+            1258,
+            1081,
+            2014,
+            1112
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 48,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                1081,
+                2014,
+                1112
+              ],
+              "line_id": 1,
+              "text": "combinations held or grew share for the year.",
+              "confidence": 0.9,
+              "uuid": "58d95960-d40b-485c-a0c6-8bbd90c9deae"
+            }
+          ],
+          "text": "combinations held or grew share for the year.",
+          "uuid": "ef25ad9b-1b13-425c-9008-c23e3846480e"
+        },
+        {
+          "bbox": [
+            1262,
+            1131,
+            2116,
+            1162
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 49,
+          "lines": [
+            {
+              "bbox": [
+                1262,
+                1131,
+                2116,
+                1162
+              ],
+              "line_id": 1,
+              "text": "Importantly, this share growth is broad based. Nine",
+              "confidence": 0.9,
+              "uuid": "8120196d-63ab-42e4-88d0-e9200093f4f8"
+            }
+          ],
+          "text": "Importantly, this share growth is broad based. Nine",
+          "uuid": "a6f5ad11-70c0-48b5-b7ce-ea67714851c7"
+        },
+        {
+          "bbox": [
+            1258,
+            1181,
+            2077,
+            1212
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 50,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                1181,
+                2077,
+                1212
+              ],
+              "line_id": 1,
+              "text": "of 10 product categories grew share globally over",
+              "confidence": 0.9,
+              "uuid": "53edc754-3dda-4a3d-8d12-df7b61d05967"
+            }
+          ],
+          "text": "of 10 product categories grew share globally over",
+          "uuid": "c604fab1-f47d-4c6f-aae7-03f2b4425780"
+        },
+        {
+          "bbox": [
+            1259,
+            1231,
+            1481,
+            1262
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 51,
+          "lines": [
+            {
+              "bbox": [
+                1259,
+                1231,
+                1481,
+                1262
+              ],
+              "line_id": 1,
+              "text": "the past year.",
+              "confidence": 0.9,
+              "uuid": "235a4e1c-147c-451e-a1e8-69cd1a38a1eb"
+            }
+          ],
+          "text": "the past year.",
+          "uuid": "c4a74373-4ebc-47b6-81b0-42f6a101a34f"
+        },
+        {
+          "bbox": [
+            1260,
+            1308,
+            2072,
+            1340
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 52,
+          "lines": [
+            {
+              "bbox": [
+                1260,
+                1308,
+                2072,
+                1340
+              ],
+              "line_id": 1,
+              "text": "Our bottom-line results include over $3 billion of",
+              "confidence": 0.9,
+              "uuid": "62055018-6534-426e-87ad-36a148cd5272"
+            }
+          ],
+          "text": "Our bottom-line results include over $3 billion of",
+          "uuid": "0a3d7457-9e85-474c-957e-f6541e45d25e"
+        },
+        {
+          "bbox": [
+            1258,
+            1361,
+            2121,
+            1392
+          ],
+          "confidence": 0.84,
+          "paragraph_id": 53,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                1361,
+                2121,
+                1392
+              ],
+              "line_id": 1,
+              "text": "earnings headwinds fromm commodities, freight and",
+              "confidence": 0.9,
+              "uuid": "a8c8fe99-f3d0-4eb9-b462-6503296d6cd5"
+            }
+          ],
+          "text": "earnings headwinds fromm commodities, freight and",
+          "uuid": "61379fe9-b05d-4c3a-b624-4f73e1f8a06c"
+        },
+        {
+          "bbox": [
+            1259,
+            1411,
+            2156,
+            1442
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 54,
+          "lines": [
+            {
+              "bbox": [
+                1259,
+                1411,
+                2156,
+                1442
+              ],
+              "line_id": 1,
+              "text": "foreign exchange. Despite this, we delivered core EPS",
+              "confidence": 0.9,
+              "uuid": "acaaf4ab-0c48-4834-ae54-1461e9b0cd1c"
+            }
+          ],
+          "text": "foreign exchange. Despite this, we delivered core EPS",
+          "uuid": "8c35885f-36b3-47ea-8f63-0b47c00171ed"
+        },
+        {
+          "bbox": [
+            1258,
+            1461,
+            2140,
+            1492
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 55,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                1461,
+                2140,
+                1492
+              ],
+              "line_id": 1,
+              "text": "growth within our initial guidance range for the year.",
+              "confidence": 0.9,
+              "uuid": "15bcc1ae-2626-4a68-9b3a-a3db00a7e43a"
+            }
+          ],
+          "text": "growth within our initial guidance range for the year.",
+          "uuid": "33871ba0-57db-4817-86ed-a2f7e0bf765a"
+        },
+        {
+          "bbox": [
+            1259,
+            1538,
+            2163,
+            1572
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 56,
+          "lines": [
+            {
+              "bbox": [
+                1259,
+                1538,
+                2163,
+                1572
+              ],
+              "line_id": 1,
+              "text": "We returned nearly $19 billion of value to shareowners",
+              "confidence": 0.9,
+              "uuid": "c666a8f4-f669-4dd4-b7ab-1cf803f04c95"
+            }
+          ],
+          "text": "We returned nearly $19 billion of value to shareowners",
+          "uuid": "fb16aa87-6bc8-4434-9847-e967c471b61f"
+        },
+        {
+          "bbox": [
+            1259,
+            1588,
+            2191,
+            1622
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 57,
+          "lines": [
+            {
+              "bbox": [
+                1259,
+                1588,
+                2191,
+                1622
+              ],
+              "line_id": 1,
+              "text": "through $8.8 billion in dividends and $10 billion in share",
+              "confidence": 0.9,
+              "uuid": "0c8622ca-0de3-4ad0-885d-bf3c4adba7e7"
+            }
+          ],
+          "text": "through $8.8 billion in dividends and $10 billion in share",
+          "uuid": "d3f59edc-1858-4a5c-93d4-95af3c033749"
+        },
+        {
+          "bbox": [
+            1261,
+            1641,
+            2189,
+            1672
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 58,
+          "lines": [
+            {
+              "bbox": [
+                1261,
+                1641,
+                2189,
+                1672
+              ],
+              "line_id": 1,
+              "text": "repurchase. In April, we announced a 5% increase in our",
+              "confidence": 0.9,
+              "uuid": "e94b857b-aead-48b2-88b4-7bcc33af77e9"
+            }
+          ],
+          "text": "repurchase. In April, we announced a 5% increase in our",
+          "uuid": "729976d1-2eec-4117-a53b-a9fea0f8286d"
+        },
+        {
+          "bbox": [
+            1258,
+            1691,
+            2165,
+            1716
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 59,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                1691,
+                2165,
+                1716
+              ],
+              "line_id": 1,
+              "text": "dividend. This is the 66th consecutive annual dividend",
+              "confidence": 0.9,
+              "uuid": "3d2d7d7c-cd5d-4fbc-9597-52c01783b3da"
+            }
+          ],
+          "text": "dividend. This is the 66th consecutive annual dividend",
+          "uuid": "e0fa84ad-d65b-49cb-a8cf-ee179326a30d"
+        },
+        {
+          "bbox": [
+            1261,
+            1741,
+            2171,
+            1772
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 60,
+          "lines": [
+            {
+              "bbox": [
+                1261,
+                1741,
+                2171,
+                1772
+              ],
+              "line_id": 1,
+              "text": "increase, and the 132nd consecutive year in which P&G",
+              "confidence": 0.9,
+              "uuid": "63d927ed-b4a9-4f2b-b4f8-939d54c0527f"
+            }
+          ],
+          "text": "increase, and the 132nd consecutive year in which P&G",
+          "uuid": "ce7e0231-4369-4986-86a5-bdacdc4b1ba9"
+        },
+        {
+          "bbox": [
+            1262,
+            1791,
+            2119,
+            1822
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 61,
+          "lines": [
+            {
+              "bbox": [
+                1262,
+                1791,
+                2119,
+                1822
+              ],
+              "line_id": 1,
+              "text": "has paid a dividend. Only seven U.S. publicly traded",
+              "confidence": 0.9,
+              "uuid": "3ed91fe0-7426-481e-9471-903edce91305"
+            }
+          ],
+          "text": "has paid a dividend. Only seven U.S. publicly traded",
+          "uuid": "7fce1a9c-f62d-4092-b264-0f4bf2c6705b"
+        },
+        {
+          "bbox": [
+            1258,
+            1841,
+            2149,
+            1872
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 62,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                1841,
+                2149,
+                1872
+              ],
+              "line_id": 1,
+              "text": "companies have paid a dividend in more consecutive",
+              "confidence": 0.9,
+              "uuid": "bce49a79-b841-43e1-a093-59f0165e2da0"
+            }
+          ],
+          "text": "companies have paid a dividend in more consecutive",
+          "uuid": "07802253-1a0e-435c-9515-3f13081fa2eb"
+        },
+        {
+          "bbox": [
+            1257,
+            1891,
+            2162,
+            1922
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 63,
+          "lines": [
+            {
+              "bbox": [
+                1257,
+                1891,
+                2162,
+                1922
+              ],
+              "line_id": 1,
+              "text": "years than P&G, and only three are recognized to have",
+              "confidence": 0.9,
+              "uuid": "cff26f4d-6c71-480e-8ccc-7d71e584da43"
+            }
+          ],
+          "text": "years than P&G, and only three are recognized to have",
+          "uuid": "1a6e8d10-9a31-4d3e-b64a-fdc6687a769b"
+        },
+        {
+          "bbox": [
+            1261,
+            1941,
+            2113,
+            1972
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 64,
+          "lines": [
+            {
+              "bbox": [
+                1261,
+                1941,
+                2113,
+                1972
+              ],
+              "line_id": 1,
+              "text": "increased their dividend in more consecutive years",
+              "confidence": 0.9,
+              "uuid": "0b02aecf-7f84-4a45-a23f-9c22601d04a9"
+            }
+          ],
+          "text": "increased their dividend in more consecutive years",
+          "uuid": "3a43cfc6-db9a-4e03-915b-dbe346fe9d66"
+        },
+        {
+          "bbox": [
+            1259,
+            1991,
+            1424,
+            2016
+          ],
+          "confidence": 0.66,
+          "paragraph_id": 65,
+          "lines": [
+            {
+              "bbox": [
+                1259,
+                1991,
+                1424,
+                2016
+              ],
+              "line_id": 1,
+              "text": "than P&GC.",
+              "confidence": 0.9,
+              "uuid": "4fb7b9b8-d7aa-45b9-9b75-17e301e7156d"
+            }
+          ],
+          "text": "than P&GC.",
+          "uuid": "be3cdf49-34e5-43e4-a84b-8e3678092297"
+        },
+        {
+          "bbox": [
+            1262,
+            2071,
+            2165,
+            2102
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 66,
+          "lines": [
+            {
+              "bbox": [
+                1262,
+                2071,
+                2165,
+                2102
+              ],
+              "line_id": 1,
+              "text": "In summary, we met or exceeded each of our going-in",
+              "confidence": 0.9,
+              "uuid": "47946db9-4f9e-4a33-acd5-d10f38c711b3"
+            }
+          ],
+          "text": "In summary, we met or exceeded each of our going-in",
+          "uuid": "fc53005e-2e6c-4d8d-8958-3b8a8e2db7cb"
+        },
+        {
+          "bbox": [
+            1259,
+            2121,
+            2183,
+            2152
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 67,
+          "lines": [
+            {
+              "bbox": [
+                1259,
+                2121,
+                2183,
+                2152
+              ],
+              "line_id": 1,
+              "text": "target ranges for the fiscal year\u2014organic sales growth,",
+              "confidence": 0.9,
+              "uuid": "aa59ddcc-ad9d-416a-83a0-8989e2e7362f"
+            }
+          ],
+          "text": "target ranges for the fiscal year\u2014organic sales growth,",
+          "uuid": "141eda6b-c140-45b6-b3ff-2bb0d2d74a75"
+        },
+        {
+          "bbox": [
+            1258,
+            2171,
+            2159,
+            2202
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 68,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                2171,
+                2159,
+                2202
+              ],
+              "line_id": 1,
+              "text": "core EPS growth, free cash flow productivity and cash",
+              "confidence": 0.9,
+              "uuid": "8e7b5c1d-8516-472d-823a-10de8402d5ee"
+            }
+          ],
+          "text": "core EPS growth, free cash flow productivity and cash",
+          "uuid": "189dc6a6-7dce-4604-933e-4efcd4bbe5d2"
+        },
+        {
+          "bbox": [
+            1261,
+            2221,
+            2140,
+            2252
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 69,
+          "lines": [
+            {
+              "bbox": [
+                1261,
+                2221,
+                2140,
+                2252
+              ],
+              "line_id": 1,
+              "text": "returned to shareowners. This is strong performance",
+              "confidence": 0.9,
+              "uuid": "5f906689-c663-4bf5-b1e0-f6f78a7d9623"
+            }
+          ],
+          "text": "returned to shareowners. This is strong performance",
+          "uuid": "1b2b14a0-34be-42ed-85a1-99be10280c55"
+        },
+        {
+          "bbox": [
+            1261,
+            2271,
+            1877,
+            2302
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 70,
+          "lines": [
+            {
+              "bbox": [
+                1261,
+                2271,
+                1877,
+                2302
+              ],
+              "line_id": 1,
+              "text": "in very difficult operating conditions.",
+              "confidence": 0.9,
+              "uuid": "24912298-7c77-4eae-a5ec-831fcd142ff8"
+            }
+          ],
+          "text": "in very difficult operating conditions.",
+          "uuid": "425bdfca-e6f2-44d8-86af-458cd22c51ea"
+        },
+        {
+          "bbox": [
+            1262,
+            2377,
+            2094,
+            2433
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 71,
+          "lines": [
+            {
+              "bbox": [
+                1262,
+                2377,
+                2094,
+                2433
+              ],
+              "line_id": 1,
+              "text": "Integrated Strategic Choices",
+              "confidence": 0.9,
+              "uuid": "5ad99b61-1ab9-4952-9021-339a472d801c"
+            }
+          ],
+          "text": "Integrated Strategic Choices",
+          "uuid": "a3ad4397-1fd8-4b76-88d4-e7ee46ba7541"
+        },
+        {
+          "bbox": [
+            1262,
+            2477,
+            2076,
+            2508
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 72,
+          "lines": [
+            {
+              "bbox": [
+                1262,
+                2477,
+                2076,
+                2508
+              ],
+              "line_id": 1,
+              "text": "P&G employees have delivered great results over",
+              "confidence": 0.9,
+              "uuid": "2ed9857e-dcf5-4eb9-9a8c-f2dcc4411e51"
+            }
+          ],
+          "text": "P&G employees have delivered great results over",
+          "uuid": "5c232cdb-28f8-40df-b20a-29719de7f97e"
+        },
+        {
+          "bbox": [
+            1259,
+            2527,
+            2043,
+            2558
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 73,
+          "lines": [
+            {
+              "bbox": [
+                1259,
+                2527,
+                2043,
+                2558
+              ],
+              "line_id": 1,
+              "text": "the past four years in a very challenging macro",
+              "confidence": 0.9,
+              "uuid": "f0ab6163-a584-48b3-8430-b966e73c1370"
+            }
+          ],
+          "text": "the past four years in a very challenging macro",
+          "uuid": "705020e0-544c-4021-b65b-d9370384440c"
+        },
+        {
+          "bbox": [
+            1258,
+            2577,
+            2093,
+            2608
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 74,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                2577,
+                2093,
+                2608
+              ],
+              "line_id": 1,
+              "text": "environment against very capable competition. In",
+              "confidence": 0.9,
+              "uuid": "96029095-f2df-4d07-abf8-866dda67bf3a"
+            }
+          ],
+          "text": "environment against very capable competition. In",
+          "uuid": "ebf74f77-bad8-4834-87b0-ac5f994c0ecb"
+        },
+        {
+          "bbox": [
+            1259,
+            2627,
+            2131,
+            2658
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 75,
+          "lines": [
+            {
+              "bbox": [
+                1259,
+                2627,
+                2131,
+                2658
+              ],
+              "line_id": 1,
+              "text": "those four years, P&G people have added more than",
+              "confidence": 0.9,
+              "uuid": "5006590b-cd23-4912-bc68-f39c9ce46538"
+            }
+          ],
+          "text": "those four years, P&G people have added more than",
+          "uuid": "39fd3fb9-5a99-4f24-8429-7c8df489e0d5"
+        },
+        {
+          "bbox": [
+            1260,
+            2674,
+            2086,
+            2708
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 76,
+          "lines": [
+            {
+              "bbox": [
+                1260,
+                2674,
+                2086,
+                2708
+              ],
+              "line_id": 1,
+              "text": "$13 billion in annual sales and roughly $5 billion in",
+              "confidence": 0.9,
+              "uuid": "a04993b4-deeb-4c4b-9e4a-7dd304950367"
+            }
+          ],
+          "text": "$13 billion in annual sales and roughly $5 billion in",
+          "uuid": "c467ef6e-2795-4f92-81e8-00f78cfd2020"
+        },
+        {
+          "bbox": [
+            1260,
+            2727,
+            2138,
+            2758
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 77,
+          "lines": [
+            {
+              "bbox": [
+                1260,
+                2727,
+                2138,
+                2758
+              ],
+              "line_id": 1,
+              "text": "after-tax profit\u2014executing our integrated strategies",
+              "confidence": 0.9,
+              "uuid": "35e60d63-f8a9-482f-95ba-3a0941115ff4"
+            }
+          ],
+          "text": "after-tax profit\u2014executing our integrated strategies",
+          "uuid": "de1fa674-d047-4d22-8220-5b7afd8493d9"
+        },
+        {
+          "bbox": [
+            1258,
+            2777,
+            1524,
+            2802
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 78,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                2777,
+                1524,
+                2802
+              ],
+              "line_id": 1,
+              "text": "with excellence.",
+              "confidence": 0.9,
+              "uuid": "7458b135-7328-43a0-aa78-0cd2fe693794"
+            }
+          ],
+          "text": "with excellence.",
+          "uuid": "52eab5e8-4d8a-4ab8-9eb3-a87632a77237"
+        },
+        {
+          "bbox": [
+            1256,
+            2857,
+            2042,
+            2888
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 79,
+          "lines": [
+            {
+              "bbox": [
+                1256,
+                2857,
+                2042,
+                2888
+              ],
+              "line_id": 1,
+              "text": "The progress we have made, and our collective",
+              "confidence": 0.9,
+              "uuid": "fd43ebb4-0f6b-4ac4-8096-546ae22d0e4c"
+            }
+          ],
+          "text": "The progress we have made, and our collective",
+          "uuid": "57cefda6-cf65-4ffb-a362-b5c2bbd4d3bd"
+        },
+        {
+          "bbox": [
+            1258,
+            2907,
+            2174,
+            2938
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 80,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                2907,
+                2174,
+                2938
+              ],
+              "line_id": 1,
+              "text": "commitment to our strategies, give me confidence we",
+              "confidence": 0.9,
+              "uuid": "c07b15a3-5dd4-4fc4-8187-51f236ecd3c5"
+            }
+          ],
+          "text": "commitment to our strategies, give me confidence we",
+          "uuid": "68c0d998-4f89-455e-ab64-81ab12b6c5e0"
+        },
+        {
+          "bbox": [
+            1258,
+            2957,
+            2151,
+            2988
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 81,
+          "lines": [
+            {
+              "bbox": [
+                1258,
+                2957,
+                2151,
+                2988
+              ],
+              "line_id": 1,
+              "text": "can manage through the challenges we will continue",
+              "confidence": 0.9,
+              "uuid": "47f43d86-93d2-4a68-97d9-da614b88022e"
+            }
+          ],
+          "text": "can manage through the challenges we will continue",
+          "uuid": "ca0e366b-4585-49ef-8f90-1bbec645e4f4"
+        }
+      ],
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "page": 1
+    },
+    {
+      "bbox": [
+        0,
+        0,
+        2362,
+        3150
+      ],
+      "confidence": 0.9,
+      "page_id": 5,
+      "paragraphs": [
+        {
+          "bbox": [
+            246,
+            299,
+            1101,
+            331
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 1,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                299,
+                1101,
+                331
+              ],
+              "line_id": 1,
+              "text": "We are leveraging this superiority to grow markets,",
+              "confidence": 0.9,
+              "uuid": "d030085b-0940-4524-b450-8ad9d39eaf60"
+            }
+          ],
+          "text": "We are leveraging this superiority to grow markets,",
+          "uuid": "c9c18926-ab23-4619-b703-5955512d0557"
+        },
+        {
+          "bbox": [
+            247,
+            349,
+            1148,
+            381
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 2,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                349,
+                1148,
+                381
+              ],
+              "line_id": 1,
+              "text": "and P&G's share in them, as a way to sustainably build",
+              "confidence": 0.9,
+              "uuid": "b5f78bae-b860-437e-8568-32b04ba015f1"
+            }
+          ],
+          "text": "and P&G's share in them, as a way to sustainably build",
+          "uuid": "16f6f7d4-ca30-4df8-a009-8ae5d40ddc99"
+        },
+        {
+          "bbox": [
+            246,
+            399,
+            1134,
+            431
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 3,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                399,
+                1134,
+                431
+              ],
+              "line_id": 1,
+              "text": "the business. Creating new business is powerful with",
+              "confidence": 0.9,
+              "uuid": "7f810ec5-716c-4990-b783-2998f580ecf0"
+            }
+          ],
+          "text": "the business. Creating new business is powerful with",
+          "uuid": "f9cf178a-2294-4b25-9b6c-982aedda08cd"
+        },
+        {
+          "bbox": [
+            246,
+            449,
+            1115,
+            481
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 4,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                449,
+                1115,
+                481
+              ],
+              "line_id": 1,
+              "text": "our retail partners as we work to jointly create value.",
+              "confidence": 0.9,
+              "uuid": "4482fda2-91b1-40ef-ab08-b7718c07bfb7"
+            }
+          ],
+          "text": "our retail partners as we work to jointly create value.",
+          "uuid": "e15debe0-2d3c-48dc-8dbc-bf202021c98a"
+        },
+        {
+          "bbox": [
+            247,
+            529,
+            1048,
+            561
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 5,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                529,
+                1048,
+                561
+              ],
+              "line_id": 1,
+              "text": "Superiority is especially critical in an inflationary",
+              "confidence": 0.9,
+              "uuid": "963ca013-bc2c-4aeb-9aca-6ac332562a62"
+            }
+          ],
+          "text": "Superiority is especially critical in an inflationary",
+          "uuid": "803cea75-af60-4f22-a5de-747e33a54c59"
+        },
+        {
+          "bbox": [
+            246,
+            579,
+            1123,
+            611
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 6,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                579,
+                1123,
+                611
+              ],
+              "line_id": 1,
+              "text": "environment. As consumers face increased pressure",
+              "confidence": 0.9,
+              "uuid": "928845c4-696f-4a11-9490-6ab7431dce23"
+            }
+          ],
+          "text": "environment. As consumers face increased pressure",
+          "uuid": "677feb4d-e1af-49ee-89a8-c6fa9eb7b75b"
+        },
+        {
+          "bbox": [
+            246,
+            629,
+            1097,
+            661
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 7,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                629,
+                1097,
+                661
+              ],
+              "line_id": 1,
+              "text": "on nearly every aspect of their household budgets,",
+              "confidence": 0.9,
+              "uuid": "39aff49a-4701-49be-998b-6c17b7f0519f"
+            }
+          ],
+          "text": "on nearly every aspect of their household budgets,",
+          "uuid": "803f757f-1387-4b4b-84e4-82e35a92f6cc"
+        },
+        {
+          "bbox": [
+            246,
+            679,
+            1073,
+            711
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 8,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                679,
+                1073,
+                711
+              ],
+              "line_id": 1,
+              "text": "we invest to deliver truly superior value through a",
+              "confidence": 0.9,
+              "uuid": "590fdfdc-3661-4201-bcd1-d9661837aca7"
+            }
+          ],
+          "text": "we invest to deliver truly superior value through a",
+          "uuid": "2163fc97-0d1d-4322-8964-615599587513"
+        },
+        {
+          "bbox": [
+            246,
+            729,
+            1083,
+            761
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 9,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                729,
+                1083,
+                761
+              ],
+              "line_id": 1,
+              "text": "combination of price and product performance to",
+              "confidence": 0.9,
+              "uuid": "1949ef5a-77b6-417d-a757-feca4fac3f9f"
+            }
+          ],
+          "text": "combination of price and product performance to",
+          "uuid": "aac91322-5751-493c-9fbf-5a5f167bc1c0"
+        },
+        {
+          "bbox": [
+            246,
+            779,
+            1161,
+            811
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 10,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                779,
+                1161,
+                811
+              ],
+              "line_id": 1,
+              "text": "earn their loyalty every day. We are committed to keep",
+              "confidence": 0.9,
+              "uuid": "de30a513-0e46-4381-b76c-6b6329f07d68"
+            }
+          ],
+          "text": "earn their loyalty every day. We are committed to keep",
+          "uuid": "e6ab33cf-a125-4b13-9b3a-1264a12c4be2"
+        },
+        {
+          "bbox": [
+            249,
+            829,
+            1129,
+            861
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 11,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                829,
+                1129,
+                861
+              ],
+              "line_id": 1,
+              "text": "investing to strengthen the superiority of our brands",
+              "confidence": 0.9,
+              "uuid": "bf23bb81-0486-434a-831c-ab5c013e5c57"
+            }
+          ],
+          "text": "investing to strengthen the superiority of our brands",
+          "uuid": "474ae8f1-c428-480b-ac01-a59e1c680db2"
+        },
+        {
+          "bbox": [
+            247,
+            879,
+            1128,
+            911
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 12,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                879,
+                1128,
+                911
+              ],
+              "line_id": 1,
+              "text": "across innovation, supply chains and brand equity to",
+              "confidence": 0.9,
+              "uuid": "5c55a114-b78a-4561-9f09-ba7ebb8ad1d6"
+            }
+          ],
+          "text": "across innovation, supply chains and brand equity to",
+          "uuid": "f8f3341d-65d3-42ad-8e83-931ccf4b9285"
+        },
+        {
+          "bbox": [
+            246,
+            929,
+            862,
+            961
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 13,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                929,
+                862,
+                961
+              ],
+              "line_id": 1,
+              "text": "deliver superior value for consumers.",
+              "confidence": 0.9,
+              "uuid": "154511dd-904c-4189-9226-f226e3e99158"
+            }
+          ],
+          "text": "deliver superior value for consumers.",
+          "uuid": "236bfac0-2a1e-41b0-8289-ea58f9ae5e49"
+        },
+        {
+          "bbox": [
+            247,
+            1036,
+            877,
+            1091
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 14,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1036,
+                877,
+                1091
+              ],
+              "line_id": 1,
+              "text": "Ongoing Productivity",
+              "confidence": 0.9,
+              "uuid": "30242033-f340-4194-95b5-722d9f64aad5"
+            }
+          ],
+          "text": "Ongoing Productivity",
+          "uuid": "1967e532-4038-4560-8c51-cea4fc30457d"
+        },
+        {
+          "bbox": [
+            243,
+            1135,
+            1119,
+            1167
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 15,
+          "lines": [
+            {
+              "bbox": [
+                243,
+                1135,
+                1119,
+                1167
+              ],
+              "line_id": 1,
+              "text": "The strategic need for investment to strengthen the",
+              "confidence": 0.9,
+              "uuid": "5bcd7fee-71e4-4fc3-8c2c-b829094d95fe"
+            }
+          ],
+          "text": "The strategic need for investment to strengthen the",
+          "uuid": "c762acea-4198-4dbb-827b-596afe4c5b42"
+        },
+        {
+          "bbox": [
+            249,
+            1181,
+            1136,
+            1221
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 16,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                1181,
+                1136,
+                1221
+              ],
+              "line_id": 1,
+              "text": "long-term health and competitiveness of our brands,",
+              "confidence": 0.9,
+              "uuid": "6d965b8c-a1d2-41e4-96da-edb03cc00e44"
+            }
+          ],
+          "text": "long-term health and competitiveness of our brands,",
+          "uuid": "1bec3cc8-92d5-4fda-befe-6f9f2336c419"
+        },
+        {
+          "bbox": [
+            246,
+            1235,
+            1113,
+            1267
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 17,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1235,
+                1113,
+                1267
+              ],
+              "line_id": 1,
+              "text": "the short-term need to manage through significant",
+              "confidence": 0.9,
+              "uuid": "2b22caf0-087f-4857-ad9f-5bf25b779f31"
+            }
+          ],
+          "text": "the short-term need to manage through significant",
+          "uuid": "24e13b0d-09a7-4514-8bfe-affd7cd6c3e3"
+        },
+        {
+          "bbox": [
+            246,
+            1285,
+            1172,
+            1317
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 18,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1285,
+                1172,
+                1317
+              ],
+              "line_id": 1,
+              "text": "cost increases, and the ongoing need to drive balanced",
+              "confidence": 0.9,
+              "uuid": "b166490e-e9f5-4777-a3ae-78008209e806"
+            }
+          ],
+          "text": "cost increases, and the ongoing need to drive balanced",
+          "uuid": "b008225b-50f6-4703-9477-1acc6fd99aa4"
+        },
+        {
+          "bbox": [
+            246,
+            1335,
+            1038,
+            1367
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 19,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1335,
+                1038,
+                1367
+              ],
+              "line_id": 1,
+              "text": "top- and bottom-line growth, including margin",
+              "confidence": 0.9,
+              "uuid": "f19d6fc6-79a5-4fe8-83d9-144a53608b7d"
+            }
+          ],
+          "text": "top- and bottom-line growth, including margin",
+          "uuid": "1e3a36e2-cb65-460d-bb7c-f184792542ff"
+        },
+        {
+          "bbox": [
+            246,
+            1385,
+            1157,
+            1416
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 20,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1385,
+                1157,
+                1416
+              ],
+              "line_id": 1,
+              "text": "expansion, underscore the importance of productivity.",
+              "confidence": 0.9,
+              "uuid": "7c0fb558-715b-4cd1-a2ea-b3216f089e11"
+            }
+          ],
+          "text": "expansion, underscore the importance of productivity.",
+          "uuid": "002d9f83-ce50-44de-9496-6995481765e1"
+        },
+        {
+          "bbox": [
+            246,
+            1465,
+            1069,
+            1497
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 21,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1465,
+                1069,
+                1497
+              ],
+              "line_id": 1,
+              "text": "We have developed a strong productivity muscle",
+              "confidence": 0.9,
+              "uuid": "665f2c82-866a-4ac0-b40a-488764ea110d"
+            }
+          ],
+          "text": "We have developed a strong productivity muscle",
+          "uuid": "ffd246b9-4a80-44ac-bafa-79d3c97cf964"
+        },
+        {
+          "bbox": [
+            246,
+            1512,
+            1099,
+            1544
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 22,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1512,
+                1099,
+                1544
+              ],
+              "line_id": 1,
+              "text": "over the last decade as we delivered two $10 billion",
+              "confidence": 0.9,
+              "uuid": "1c7dc02b-3e64-44f8-a95a-b035f1040d55"
+            }
+          ],
+          "text": "over the last decade as we delivered two $10 billion",
+          "uuid": "d37588ce-0876-4251-b4bd-73a2e16eed14"
+        },
+        {
+          "bbox": [
+            247,
+            1565,
+            1077,
+            1597
+          ],
+          "confidence": 0.83,
+          "paragraph_id": 23,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1565,
+                1077,
+                1597
+              ],
+              "line_id": 1,
+              "text": "savings programs. Productivity is part of our DNA",
+              "confidence": 0.9,
+              "uuid": "2331f7af-94e2-45a2-a32f-7e48127b632f"
+            }
+          ],
+          "text": "savings programs. Productivity is part of our DNA",
+          "uuid": "2fc2b188-84b7-441a-9f27-9ac00b24b309"
+        },
+        {
+          "bbox": [
+            248,
+            1615,
+            1172,
+            1647
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 24,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1615,
+                1172,
+                1647
+              ],
+              "line_id": 1,
+              "text": "now, which will help us address some of the challenges",
+              "confidence": 0.9,
+              "uuid": "1cf4f789-4e05-4b04-97dd-7bd8deeb8c96"
+            }
+          ],
+          "text": "now, which will help us address some of the challenges",
+          "uuid": "2b9e64bc-8acc-438c-bcbd-0b3601290207"
+        },
+        {
+          "bbox": [
+            246,
+            1665,
+            1135,
+            1697
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 25,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1665,
+                1135,
+                1697
+              ],
+              "line_id": 1,
+              "text": "we face. We remain fully committed to cost and cash",
+              "confidence": 0.9,
+              "uuid": "6c2270b4-18ce-43c9-945f-47f1ea24c671"
+            }
+          ],
+          "text": "we face. We remain fully committed to cost and cash",
+          "uuid": "68b8a5b6-1b05-4124-9566-e511c86d3e93"
+        },
+        {
+          "bbox": [
+            248,
+            1715,
+            1177,
+            1747
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 26,
+          "lines": [
+            {
+              "bbox": [
+                248,
+                1715,
+                1177,
+                1747
+              ],
+              "line_id": 1,
+              "text": "productivity in all facets of our business. No area of cost",
+              "confidence": 0.9,
+              "uuid": "b4e8c164-50ea-4d97-bb16-ca13919f2452"
+            }
+          ],
+          "text": "productivity in all facets of our business. No area of cost",
+          "uuid": "226b797a-3d42-4f0a-b8e5-3a84928102a0"
+        },
+        {
+          "bbox": [
+            249,
+            1765,
+            537,
+            1790
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 27,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                1765,
+                537,
+                1790
+              ],
+              "line_id": 1,
+              "text": "is left untouched.",
+              "confidence": 0.9,
+              "uuid": "ec380b8a-0bc8-4f9f-b45e-4078a0cce80f"
+            }
+          ],
+          "text": "is left untouched.",
+          "uuid": "c5444a1a-30c9-4b5a-b83f-4baa16acd9be"
+        },
+        {
+          "bbox": [
+            249,
+            1845,
+            1173,
+            1877
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 28,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                1845,
+                1173,
+                1877
+              ],
+              "line_id": 1,
+              "text": "For example, as COVID-19 supply chain challenges ease",
+              "confidence": 0.9,
+              "uuid": "d7c8bfa3-39ab-4db3-8fb1-5935a149d24d"
+            }
+          ],
+          "text": "For example, as COVID-19 supply chain challenges ease",
+          "uuid": "a5c99531-4705-4413-ae8b-9088fec786c4"
+        },
+        {
+          "bbox": [
+            247,
+            1895,
+            1149,
+            1927
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 29,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                1895,
+                1149,
+                1927
+              ],
+              "line_id": 1,
+              "text": "and we reach a better balance of supply and demand,",
+              "confidence": 0.9,
+              "uuid": "3205e8eb-308e-4378-917b-117d3b112e83"
+            }
+          ],
+          "text": "and we reach a better balance of supply and demand,",
+          "uuid": "e6894968-4dbc-487d-938c-3eaed34d1390"
+        },
+        {
+          "bbox": [
+            246,
+            1945,
+            1123,
+            1977
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 30,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1945,
+                1123,
+                1977
+              ],
+              "line_id": 1,
+              "text": "we will have an increased opportunity to implement",
+              "confidence": 0.9,
+              "uuid": "b533a452-da39-4636-894e-9705ff7ed8d4"
+            }
+          ],
+          "text": "we will have an increased opportunity to implement",
+          "uuid": "2452080d-b517-4d8e-a7f4-677d59876ca1"
+        },
+        {
+          "bbox": [
+            246,
+            1995,
+            1162,
+            2027
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 31,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                1995,
+                1162,
+                2027
+              ],
+              "line_id": 1,
+              "text": "cost savings projects in our manufacturing operations.",
+              "confidence": 0.9,
+              "uuid": "7f1b7fa0-64a5-46dc-ab27-a58c78623568"
+            }
+          ],
+          "text": "cost savings projects in our manufacturing operations.",
+          "uuid": "1515cb1f-f6ad-4922-92aa-e49f87204c94"
+        },
+        {
+          "bbox": [
+            244,
+            2045,
+            1087,
+            2077
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 32,
+          "lines": [
+            {
+              "bbox": [
+                244,
+                2045,
+                1087,
+                2077
+              ],
+              "line_id": 1,
+              "text": "As we leverage digital tools and automation, there",
+              "confidence": 0.9,
+              "uuid": "875cd5b5-3b0b-4199-adb4-a0aa3f29f24e"
+            }
+          ],
+          "text": "As we leverage digital tools and automation, there",
+          "uuid": "fb9bd2bf-7e24-4c8d-a0fd-a75361d2b43b"
+        },
+        {
+          "bbox": [
+            246,
+            2095,
+            1142,
+            2126
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 33,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2095,
+                1142,
+                2126
+              ],
+              "line_id": 1,
+              "text": "will be more opportunities to focus employees on the",
+              "confidence": 0.9,
+              "uuid": "875fb537-c3a9-4c2b-b5dd-49cabeaba657"
+            }
+          ],
+          "text": "will be more opportunities to focus employees on the",
+          "uuid": "cc34b5d4-1cf0-413f-bace-d857e9f67899"
+        },
+        {
+          "bbox": [
+            249,
+            2145,
+            1119,
+            2177
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 34,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                2145,
+                1119,
+                2177
+              ],
+              "line_id": 1,
+              "text": "higher-order work of serving consumers. And, as we",
+              "confidence": 0.9,
+              "uuid": "dee7e036-0346-4b28-81a0-70068ec50943"
+            }
+          ],
+          "text": "higher-order work of serving consumers. And, as we",
+          "uuid": "cea26de9-ed35-4ffc-88b6-1ac88ce973ff"
+        },
+        {
+          "bbox": [
+            246,
+            2195,
+            1132,
+            2227
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 35,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2195,
+                1132,
+                2227
+              ],
+              "line_id": 1,
+              "text": "continue to integrate data and analytics and artificial",
+              "confidence": 0.9,
+              "uuid": "961fe4c4-b99e-4a2d-b4f2-fb478dca6aac"
+            }
+          ],
+          "text": "continue to integrate data and analytics and artificial",
+          "uuid": "84d90f0d-f426-413e-8ca2-93a8434074c6"
+        },
+        {
+          "bbox": [
+            249,
+            2245,
+            1084,
+            2277
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 36,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                2245,
+                1084,
+                2277
+              ],
+              "line_id": 1,
+              "text": "intelligence, brand teams will be working to make",
+              "confidence": 0.9,
+              "uuid": "a258dcc4-b609-446c-a1ab-3ffdfb2268b0"
+            }
+          ],
+          "text": "intelligence, brand teams will be working to make",
+          "uuid": "eeedf094-9634-4ac0-80f8-b8068d9881b3"
+        },
+        {
+          "bbox": [
+            246,
+            2295,
+            1113,
+            2326
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 37,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2295,
+                1113,
+                2326
+              ],
+              "line_id": 1,
+              "text": "our marketing investments even more efficient and",
+              "confidence": 0.9,
+              "uuid": "e0ba161b-f7aa-4002-807b-a99aa42d83cf"
+            }
+          ],
+          "text": "our marketing investments even more efficient and",
+          "uuid": "d7fb14f3-526f-4c04-b3df-c771e798c4be"
+        },
+        {
+          "bbox": [
+            246,
+            2345,
+            1167,
+            2376
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 38,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2345,
+                1167,
+                2376
+              ],
+              "line_id": 1,
+              "text": "effective to deliver improved demand creation at equal",
+              "confidence": 0.9,
+              "uuid": "85836152-8e69-4ba5-865a-85d6b7f06279"
+            }
+          ],
+          "text": "effective to deliver improved demand creation at equal",
+          "uuid": "b7187866-5abe-4c51-b23e-e01f78225fc9"
+        },
+        {
+          "bbox": [
+            246,
+            2395,
+            467,
+            2420
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 39,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2395,
+                467,
+                2420
+              ],
+              "line_id": 1,
+              "text": "or lower cost.",
+              "confidence": 0.9,
+              "uuid": "889584c1-7220-4956-bbdc-d1120aa91bb2"
+            }
+          ],
+          "text": "or lower cost.",
+          "uuid": "2c26eac8-8036-410d-868f-10b31f275080"
+        },
+        {
+          "bbox": [
+            249,
+            2475,
+            1090,
+            2507
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 40,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                2475,
+                1090,
+                2507
+              ],
+              "line_id": 1,
+              "text": "Each business is driving productivity up and down",
+              "confidence": 0.9,
+              "uuid": "da7d0737-a294-457c-8724-6badbd751432"
+            }
+          ],
+          "text": "Each business is driving productivity up and down",
+          "uuid": "b341758c-85ae-4b95-9719-f9cc9f2b6142"
+        },
+        {
+          "bbox": [
+            246,
+            2525,
+            1172,
+            2555
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 41,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2525,
+                1172,
+                2555
+              ],
+              "line_id": 1,
+              "text": "their income statement and across their balance sheet,",
+              "confidence": 0.9,
+              "uuid": "8ae6a6a5-a3dc-473f-84eb-090f6eddbedc"
+            }
+          ],
+          "text": "their income statement and across their balance sheet,",
+          "uuid": "88e2045b-02cf-4446-a7e1-fa463047e82b"
+        },
+        {
+          "bbox": [
+            247,
+            2575,
+            1103,
+            2607
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 42,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                2575,
+                1103,
+                2607
+              ],
+              "line_id": 1,
+              "text": "and we remain fully committed to productivity as a",
+              "confidence": 0.9,
+              "uuid": "66b751a8-0d5f-4da1-83d2-19ab43d9cc4d"
+            }
+          ],
+          "text": "and we remain fully committed to productivity as a",
+          "uuid": "55de7b4c-c83d-4491-8643-3577fe0649af"
+        },
+        {
+          "bbox": [
+            246,
+            2625,
+            1123,
+            2656
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 43,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2625,
+                1123,
+                2656
+              ],
+              "line_id": 1,
+              "text": "core driver of balanced top- and bottom-line growth",
+              "confidence": 0.9,
+              "uuid": "fff6a31e-5319-46a4-8783-5149d73636d2"
+            }
+          ],
+          "text": "core driver of balanced top- and bottom-line growth",
+          "uuid": "fb1b758e-10ea-4b08-8652-394b7345ba10"
+        },
+        {
+          "bbox": [
+            247,
+            2675,
+            1107,
+            2707
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 44,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                2675,
+                1107,
+                2707
+              ],
+              "line_id": 1,
+              "text": "and strong cash generation. We cannot let up here.",
+              "confidence": 0.9,
+              "uuid": "741b2661-e94c-45e5-92c7-06ba3a570f2b"
+            }
+          ],
+          "text": "and strong cash generation. We cannot let up here.",
+          "uuid": "0f6ec2ed-9d13-48ba-8207-227de6b20ee2"
+        },
+        {
+          "bbox": [
+            249,
+            2725,
+            1145,
+            2757
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 45,
+          "lines": [
+            {
+              "bbox": [
+                249,
+                2725,
+                1145,
+                2757
+              ],
+              "line_id": 1,
+              "text": "Productivity will remain a significant part of our work,",
+              "confidence": 0.9,
+              "uuid": "f01ecd53-d44b-443e-8336-4599875cbbbc"
+            }
+          ],
+          "text": "Productivity will remain a significant part of our work,",
+          "uuid": "ca9bc380-5a39-4a5f-a556-dcb5f7fe426e"
+        },
+        {
+          "bbox": [
+            246,
+            2775,
+            496,
+            2807
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 46,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                2775,
+                496,
+                2807
+              ],
+              "line_id": 1,
+              "text": "especially now.",
+              "confidence": 0.9,
+              "uuid": "6d6580b4-55dd-442c-bd64-791f1008d285"
+            }
+          ],
+          "text": "especially now.",
+          "uuid": "92e5a2ac-b4a7-4acc-b4ca-8e65dda465e8"
+        },
+        {
+          "bbox": [
+            1373,
+            296,
+            2062,
+            351
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 47,
+          "lines": [
+            {
+              "bbox": [
+                1373,
+                296,
+                2062,
+                351
+              ],
+              "line_id": 1,
+              "text": "Measures of Superiority",
+              "confidence": 0.9,
+              "uuid": "a320fec1-0fb0-419e-af14-fe788fc23cfb"
+            }
+          ],
+          "text": "Measures of Superiority",
+          "uuid": "f1254763-445c-4521-a6c9-966d259edf20"
+        },
+        {
+          "bbox": [
+            1372,
+            473,
+            1590,
+            500
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 48,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                473,
+                1590,
+                500
+              ],
+              "line_id": 1,
+              "text": "PRODUCT",
+              "confidence": 0.9,
+              "uuid": "ea00c366-5530-42a3-a7cf-6d2c0cf3fcae"
+            }
+          ],
+          "text": "PRODUCT",
+          "uuid": "e788911e-6626-4e99-b7c2-e2bdc52b72e8"
+        },
+        {
+          "bbox": [
+            1372,
+            543,
+            1896,
+            575
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 49,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                543,
+                1896,
+                575
+              ],
+              "line_id": 1,
+              "text": "Products so good, consumers",
+              "confidence": 0.9,
+              "uuid": "5b17a364-f454-4d71-8880-0d27b7a485b5"
+            }
+          ],
+          "text": "Products so good, consumers",
+          "uuid": "421083ee-f701-48d5-a1ab-3d80a8ebca2e"
+        },
+        {
+          "bbox": [
+            1372,
+            592,
+            1813,
+            625
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 50,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                592,
+                1813,
+                625
+              ],
+              "line_id": 1,
+              "text": "recognize the difference.",
+              "confidence": 0.9,
+              "uuid": "40b894d1-04c6-4c9d-8278-df7ff566d7c8"
+            }
+          ],
+          "text": "recognize the difference.",
+          "uuid": "fb3029ac-13a6-4756-b294-fb8d337f0c8c"
+        },
+        {
+          "bbox": [
+            1370,
+            642,
+            1784,
+            675
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 51,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                642,
+                1784,
+                675
+              ],
+              "line_id": 1,
+              "text": "Superior products raise",
+              "confidence": 0.9,
+              "uuid": "73218797-caa8-4bd7-aac6-a7cddc472c53"
+            }
+          ],
+          "text": "Superior products raise",
+          "uuid": "313a0de1-c3ef-458d-9dff-d5aa20351f3b"
+        },
+        {
+          "bbox": [
+            1370,
+            692,
+            1898,
+            725
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 52,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                692,
+                1898,
+                725
+              ],
+              "line_id": 1,
+              "text": "expectations for performance",
+              "confidence": 0.9,
+              "uuid": "515efdae-9f01-46a1-8448-e81c7592d076"
+            }
+          ],
+          "text": "expectations for performance",
+          "uuid": "237adc95-885d-468d-a087-6a4fa4e48b9a"
+        },
+        {
+          "bbox": [
+            1371,
+            742,
+            1646,
+            775
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 53,
+          "lines": [
+            {
+              "bbox": [
+                1371,
+                742,
+                1646,
+                775
+              ],
+              "line_id": 1,
+              "text": "in the category.",
+              "confidence": 0.9,
+              "uuid": "3b18f89c-9930-409a-8c23-dcdea88332a7"
+            }
+          ],
+          "text": "in the category.",
+          "uuid": "35bbf661-7bf4-4e51-a7d1-75960cfb1cec"
+        },
+        {
+          "bbox": [
+            1372,
+            900,
+            1637,
+            927
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 54,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                900,
+                1637,
+                927
+              ],
+              "line_id": 1,
+              "text": "PACKAGING",
+              "confidence": 0.9,
+              "uuid": "bdffd6d2-dd5d-4c79-8d10-32e2b85f4cf2"
+            }
+          ],
+          "text": "PACKAGING",
+          "uuid": "f04cfc43-fdfa-407b-8698-79d7d8808660"
+        },
+        {
+          "bbox": [
+            1372,
+            969,
+            1789,
+            1002
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 55,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                969,
+                1789,
+                1002
+              ],
+              "line_id": 1,
+              "text": "Packaging that attracts",
+              "confidence": 0.9,
+              "uuid": "6ea14c28-48cc-4179-bf5e-9915bcb7c4f2"
+            }
+          ],
+          "text": "Packaging that attracts",
+          "uuid": "feebe1d0-8f7b-47ea-bc5a-eb32ab75a78d"
+        },
+        {
+          "bbox": [
+            1370,
+            1020,
+            1841,
+            1052
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 56,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1020,
+                1841,
+                1052
+              ],
+              "line_id": 1,
+              "text": "consumers, conveys brand",
+              "confidence": 0.9,
+              "uuid": "b70770e2-27f6-4f2f-bdcf-1688dcbb908a"
+            }
+          ],
+          "text": "consumers, conveys brand",
+          "uuid": "aa49bd17-44c4-41a6-9451-177b2ffe586d"
+        },
+        {
+          "bbox": [
+            1370,
+            1069,
+            1801,
+            1102
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 57,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1069,
+                1801,
+                1102
+              ],
+              "line_id": 1,
+              "text": "equity, helps consumers",
+              "confidence": 0.9,
+              "uuid": "3a561da1-224b-4a93-a25d-ce248e99d7fe"
+            }
+          ],
+          "text": "equity, helps consumers",
+          "uuid": "7aa052cf-e46d-42ee-9058-23ff2b69e8d9"
+        },
+        {
+          "bbox": [
+            1370,
+            1120,
+            1842,
+            1152
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 58,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1120,
+                1842,
+                1152
+              ],
+              "line_id": 1,
+              "text": "select the best product for",
+              "confidence": 0.9,
+              "uuid": "eb69181d-43ab-409a-a789-20bf77ad1810"
+            }
+          ],
+          "text": "select the best product for",
+          "uuid": "2865f5b7-344b-4108-914c-e9d9de46453b"
+        },
+        {
+          "bbox": [
+            1370,
+            1169,
+            1811,
+            1202
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 59,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1169,
+                1811,
+                1202
+              ],
+              "line_id": 1,
+              "text": "their needs, and delights",
+              "confidence": 0.9,
+              "uuid": "9a14d2a6-bded-455d-887e-c1a1ca2a1c80"
+            }
+          ],
+          "text": "their needs, and delights",
+          "uuid": "5038ecef-fdb3-49c9-a57b-4281b9b974dc"
+        },
+        {
+          "bbox": [
+            1370,
+            1219,
+            1773,
+            1252
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 60,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1219,
+                1773,
+                1252
+              ],
+              "line_id": 1,
+              "text": "consumers during use.",
+              "confidence": 0.9,
+              "uuid": "9c69ab76-28c7-4418-98be-44e8611baf4c"
+            }
+          ],
+          "text": "consumers during use.",
+          "uuid": "22d233a4-3e84-4f09-8eba-1bbb128f610a"
+        },
+        {
+          "bbox": [
+            1372,
+            1377,
+            1946,
+            1404
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 61,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                1377,
+                1946,
+                1404
+              ],
+              "line_id": 1,
+              "text": "BRAND COMMUNICATION",
+              "confidence": 0.9,
+              "uuid": "fa300b7f-ce8d-4837-bc43-9a1bb1b36cb2"
+            }
+          ],
+          "text": "BRAND COMMUNICATION",
+          "uuid": "03d8e663-b1ad-4610-8b61-77bcb2761906"
+        },
+        {
+          "bbox": [
+            1372,
+            1446,
+            1784,
+            1479
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 62,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                1446,
+                1784,
+                1479
+              ],
+              "line_id": 1,
+              "text": "Product and packaging",
+              "confidence": 0.9,
+              "uuid": "4a70ab8d-49e3-4b5d-bda4-68ab83929d79"
+            }
+          ],
+          "text": "Product and packaging",
+          "uuid": "e8740635-a0f0-42ff-92f6-bfbd48423207"
+        },
+        {
+          "bbox": [
+            1372,
+            1496,
+            1795,
+            1523
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 63,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                1496,
+                1795,
+                1523
+              ],
+              "line_id": 1,
+              "text": "benefits communicated",
+              "confidence": 0.9,
+              "uuid": "dedbd599-8a18-414c-8faf-049164cad137"
+            }
+          ],
+          "text": "benefits communicated",
+          "uuid": "03f7a7f4-3a04-4b4b-b398-577ba98ff6b7"
+        },
+        {
+          "bbox": [
+            1370,
+            1546,
+            1873,
+            1579
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 64,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1546,
+                1873,
+                1579
+              ],
+              "line_id": 1,
+              "text": "with exceptional advertising",
+              "confidence": 0.9,
+              "uuid": "56c7e29a-3e61-41c8-b391-fbb1136d6918"
+            }
+          ],
+          "text": "with exceptional advertising",
+          "uuid": "bcefac1d-d332-4942-9ff2-d591a2bca8d2"
+        },
+        {
+          "bbox": [
+            1370,
+            1596,
+            1755,
+            1629
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 65,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1596,
+                1755,
+                1629
+              ],
+              "line_id": 1,
+              "text": "that makes you think,",
+              "confidence": 0.9,
+              "uuid": "5846d91d-080d-4556-bb02-78508de3cb27"
+            }
+          ],
+          "text": "that makes you think,",
+          "uuid": "fc32af41-9ec2-4209-8043-e83bf194dd9c"
+        },
+        {
+          "bbox": [
+            1370,
+            1646,
+            1818,
+            1679
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 66,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1646,
+                1818,
+                1679
+              ],
+              "line_id": 1,
+              "text": "talk, laugh, cry, smile, act",
+              "confidence": 0.9,
+              "uuid": "1efc6c54-04f8-4f95-9b84-3b76cef16510"
+            }
+          ],
+          "text": "talk, laugh, cry, smile, act",
+          "uuid": "71145b79-e30c-48f1-bfe7-6a1b3be6300c"
+        },
+        {
+          "bbox": [
+            1371,
+            1696,
+            1821,
+            1729
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 67,
+          "lines": [
+            {
+              "bbox": [
+                1371,
+                1696,
+                1821,
+                1729
+              ],
+              "line_id": 1,
+              "text": "and buy\u2014and that drives",
+              "confidence": 0.9,
+              "uuid": "4e8fb9d6-269e-4037-a9d7-ede3e954fe0e"
+            }
+          ],
+          "text": "and buy\u2014and that drives",
+          "uuid": "b4e2b402-fe9d-49a4-8a61-b7263cba15e8"
+        },
+        {
+          "bbox": [
+            1370,
+            1747,
+            1867,
+            1779
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 68,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                1747,
+                1867,
+                1779
+              ],
+              "line_id": 1,
+              "text": "category and brand growth.",
+              "confidence": 0.9,
+              "uuid": "c47d084c-ab91-4d31-9984-0368ca275a8e"
+            }
+          ],
+          "text": "category and brand growth.",
+          "uuid": "a158abc2-435d-472c-9c3c-02c75ed7fe1c"
+        },
+        {
+          "bbox": [
+            1372,
+            1904,
+            1803,
+            1931
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 69,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                1904,
+                1803,
+                1931
+              ],
+              "line_id": 1,
+              "text": "RETAIL EXECUTION",
+              "confidence": 0.9,
+              "uuid": "fa66f2a2-f282-40b7-a6ce-76d26bc84410"
+            }
+          ],
+          "text": "RETAIL EXECUTION",
+          "uuid": "355d803c-a562-448d-ac86-05a0e8ed7465"
+        },
+        {
+          "bbox": [
+            1372,
+            1973,
+            1870,
+            2006
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 70,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                1973,
+                1870,
+                2006
+              ],
+              "line_id": 1,
+              "text": "In-store: with the right store",
+              "confidence": 0.9,
+              "uuid": "7af7ce7b-6f19-45b1-b665-78b22cf8baf6"
+            }
+          ],
+          "text": "In-store: with the right store",
+          "uuid": "4321c67d-eaa8-49c5-9ae9-22ec7aa53eb5"
+        },
+        {
+          "bbox": [
+            1370,
+            2023,
+            1919,
+            2056
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 71,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                2023,
+                1919,
+                2056
+              ],
+              "line_id": 1,
+              "text": "coverage, product forms, sizes,",
+              "confidence": 0.9,
+              "uuid": "88c1e8e4-7e7d-42e6-ace8-0c8a032e471a"
+            }
+          ],
+          "text": "coverage, product forms, sizes,",
+          "uuid": "da8b686d-d3b6-481d-8e83-59bb8fa3716c"
+        },
+        {
+          "bbox": [
+            1372,
+            2073,
+            1824,
+            2106
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 72,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                2073,
+                1824,
+                2106
+              ],
+              "line_id": 1,
+              "text": "price points, shelving and",
+              "confidence": 0.9,
+              "uuid": "54192305-89c4-4e4e-9808-634dbb964c53"
+            }
+          ],
+          "text": "price points, shelving and",
+          "uuid": "b0dcb11b-ec07-45dd-8130-c151609cc0db"
+        },
+        {
+          "bbox": [
+            1372,
+            2123,
+            1869,
+            2156
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 73,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                2123,
+                1869,
+                2156
+              ],
+              "line_id": 1,
+              "text": "merchandising. Online: with",
+              "confidence": 0.9,
+              "uuid": "f8656c1d-b5e9-4cb8-ac83-9d1b6d83f5e5"
+            }
+          ],
+          "text": "merchandising. Online: with",
+          "uuid": "2a359823-6b4b-43d3-af43-2bcd10118100"
+        },
+        {
+          "bbox": [
+            1370,
+            2173,
+            1905,
+            2206
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 74,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                2173,
+                1905,
+                2206
+              ],
+              "line_id": 1,
+              "text": "the right content, assortment,",
+              "confidence": 0.9,
+              "uuid": "6913fe12-ff9e-4e27-b8fe-8333d4fd8ab8"
+            }
+          ],
+          "text": "the right content, assortment,",
+          "uuid": "afb1829a-121a-4906-ba6e-7b99e76c5bd4"
+        },
+        {
+          "bbox": [
+            1372,
+            2223,
+            1862,
+            2256
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 75,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                2223,
+                1862,
+                2256
+              ],
+              "line_id": 1,
+              "text": "ratings, reviews, search and",
+              "confidence": 0.9,
+              "uuid": "4857d063-ba47-4de5-bfcd-a86b2af9e2c2"
+            }
+          ],
+          "text": "ratings, reviews, search and",
+          "uuid": "9ecc1285-9e51-4782-9f08-7dba9a15eb63"
+        },
+        {
+          "bbox": [
+            1370,
+            2273,
+            1770,
+            2306
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 76,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                2273,
+                1770,
+                2306
+              ],
+              "line_id": 1,
+              "text": "subscription offerings.",
+              "confidence": 0.9,
+              "uuid": "7fba70b7-a827-42c5-9fcc-b2eee45690c5"
+            }
+          ],
+          "text": "subscription offerings.",
+          "uuid": "e93ae000-056b-4fe2-8ae8-9648094232cf"
+        },
+        {
+          "bbox": [
+            1371,
+            2431,
+            1671,
+            2458
+          ],
+          "confidence": 0.94,
+          "paragraph_id": 77,
+          "lines": [
+            {
+              "bbox": [
+                1371,
+                2431,
+                1671,
+                2458
+              ],
+              "line_id": 1,
+              "text": "CONSUMER &",
+              "confidence": 0.9,
+              "uuid": "2c4d80fe-984e-4610-89ef-566181bb294f"
+            }
+          ],
+          "text": "CONSUMER &",
+          "uuid": "37be84b5-e0d2-46d0-8587-8fc8174fe62f"
+        },
+        {
+          "bbox": [
+            1371,
+            2477,
+            1783,
+            2504
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 78,
+          "lines": [
+            {
+              "bbox": [
+                1371,
+                2477,
+                1783,
+                2504
+              ],
+              "line_id": 1,
+              "text": "CUSTOMER VALUE",
+              "confidence": 0.9,
+              "uuid": "4dd923f4-8e1c-49b0-b0a0-257756c0188c"
+            }
+          ],
+          "text": "CUSTOMER VALUE",
+          "uuid": "70d212ff-7e54-4c3b-bd44-556e64488964"
+        },
+        {
+          "bbox": [
+            1372,
+            2547,
+            1800,
+            2573
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 79,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                2547,
+                1800,
+                2573
+              ],
+              "line_id": 1,
+              "text": "For consumers: all these",
+              "confidence": 0.9,
+              "uuid": "cdddd390-d2e4-4165-831d-8faa210f0cd8"
+            }
+          ],
+          "text": "For consumers: all these",
+          "uuid": "cea2f47b-9de1-466d-8726-252148f4a903"
+        },
+        {
+          "bbox": [
+            1370,
+            2596,
+            1767,
+            2629
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 80,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                2596,
+                1767,
+                2629
+              ],
+              "line_id": 1,
+              "text": "elements presented in",
+              "confidence": 0.9,
+              "uuid": "d3e463ce-293e-4bbc-b380-d2e2d8c22abf"
+            }
+          ],
+          "text": "elements presented in",
+          "uuid": "0856a2a9-ff71-4866-83a9-c5e44235f88d"
+        },
+        {
+          "bbox": [
+            1371,
+            2647,
+            1757,
+            2679
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 81,
+          "lines": [
+            {
+              "bbox": [
+                1371,
+                2647,
+                1757,
+                2679
+              ],
+              "line_id": 1,
+              "text": "a clear and shoppable",
+              "confidence": 0.9,
+              "uuid": "ffec2fcc-0a53-4894-aa1c-c60ab6448996"
+            }
+          ],
+          "text": "a clear and shoppable",
+          "uuid": "7b05f98b-585b-4d83-ab79-a521e8a093b2"
+        },
+        {
+          "bbox": [
+            1370,
+            2696,
+            1831,
+            2729
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 82,
+          "lines": [
+            {
+              "bbox": [
+                1370,
+                2696,
+                1831,
+                2729
+              ],
+              "line_id": 1,
+              "text": "way at a compelling price.",
+              "confidence": 0.9,
+              "uuid": "a9ff72e1-c1fc-42ec-8845-d66a5b7298da"
+            }
+          ],
+          "text": "way at a compelling price.",
+          "uuid": "9aeb88c4-1bb4-4b15-a014-53f5d13570e3"
+        },
+        {
+          "bbox": [
+            1372,
+            2746,
+            1779,
+            2779
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 83,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                2746,
+                1779,
+                2779
+              ],
+              "line_id": 1,
+              "text": "For customers: margin,",
+              "confidence": 0.9,
+              "uuid": "a1c3ae16-c11c-48fe-86e3-28aa12198c8d"
+            }
+          ],
+          "text": "For customers: margin,",
+          "uuid": "fc0f801d-8561-4a0b-a7c5-154200892f91"
+        },
+        {
+          "bbox": [
+            1372,
+            2796,
+            1885,
+            2829
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 84,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                2796,
+                1885,
+                2829
+              ],
+              "line_id": 1,
+              "text": "penny profit, trip generation,",
+              "confidence": 0.9,
+              "uuid": "23dbcd1b-05ff-43f4-b658-12fc6e19dd67"
+            }
+          ],
+          "text": "penny profit, trip generation,",
+          "uuid": "ec2e9876-7fff-40e4-8f9c-58484ef94c8b"
+        },
+        {
+          "bbox": [
+            1372,
+            2846,
+            1820,
+            2879
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 85,
+          "lines": [
+            {
+              "bbox": [
+                1372,
+                2846,
+                1820,
+                2879
+              ],
+              "line_id": 1,
+              "text": "basket size, and category",
+              "confidence": 0.9,
+              "uuid": "24b3fae4-c2a0-4c53-8de4-052bd9b16399"
+            }
+          ],
+          "text": "basket size, and category",
+          "uuid": "3dfd0a78-c64b-420a-9393-078da2cac432"
+        },
+        {
+          "bbox": [
+            1371,
+            2897,
+            1508,
+            2929
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 86,
+          "lines": [
+            {
+              "bbox": [
+                1371,
+                2897,
+                1508,
+                2929
+              ],
+              "line_id": 1,
+              "text": "growth.",
+              "confidence": 0.9,
+              "uuid": "4f879d03-e3f7-481e-9080-46f3ac70169b"
+            }
+          ],
+          "text": "growth.",
+          "uuid": "f59cd0c0-5319-47f2-ad5e-10ede160efca"
+        },
+        {
+          "bbox": [
+            1997,
+            498,
+            2191,
+            746
+          ],
+          "confidence": 0.18,
+          "paragraph_id": 87,
+          "lines": [
+            {
+              "bbox": [
+                1997,
+                498,
+                2191,
+                746
+              ],
+              "line_id": 1,
+              "text": "B",
+              "confidence": 0.9,
+              "uuid": "ec5cf225-bdc8-456b-97d4-db6456cb6b9c"
+            }
+          ],
+          "text": "B",
+          "uuid": "6d868702-111c-4055-b386-1acc5d601b39"
+        },
+        {
+          "bbox": [
+            2044,
+            955,
+            2152,
+            1216
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 88,
+          "lines": [
+            {
+              "bbox": [
+                2044,
+                955,
+                2152,
+                1216
+              ],
+              "line_id": 1,
+              "text": "i",
+              "confidence": 0.9,
+              "uuid": "7540afb4-fed2-4dcd-bf52-6d4057da9010"
+            }
+          ],
+          "text": "i",
+          "uuid": "29b9f2f5-39de-4900-b465-dee1568df68d"
+        },
+        {
+          "bbox": [
+            1958,
+            1472,
+            2230,
+            1682
+          ],
+          "confidence": 0.31,
+          "paragraph_id": 89,
+          "lines": [
+            {
+              "bbox": [
+                1958,
+                1472,
+                2230,
+                1682
+              ],
+              "line_id": 1,
+              "text": "&",
+              "confidence": 0.9,
+              "uuid": "d04f46e0-5aa9-4e8e-a85f-4e464d50bddc"
+            }
+          ],
+          "text": "&",
+          "uuid": "f0d461d2-1b88-4a3c-9029-d2e8e1b7223a"
+        }
+      ],
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "page": 2
+    },
+    {
+      "bbox": [
+        0,
+        0,
+        2362,
+        3150
+      ],
+      "confidence": 0.89,
+      "page_id": 7,
+      "paragraphs": [
+        {
+          "bbox": [
+            0,
+            0,
+            1305,
+            1
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 1,
+          "lines": [
+            {
+              "bbox": [
+                0,
+                0,
+                1305,
+                1
+              ],
+              "line_id": 1,
+              "text": " ",
+              "confidence": 0.9,
+              "uuid": "6fe10923-31e4-4a8c-bd92-78bf0a6ec50f"
+            }
+          ],
+          "text": " ",
+          "uuid": "5ef9fee2-7e35-4585-969b-49ab9cc4ea69"
+        },
+        {
+          "bbox": [
+            0,
+            0,
+            2,
+            3150
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 2,
+          "lines": [
+            {
+              "bbox": [
+                0,
+                0,
+                2,
+                3150
+              ],
+              "line_id": 1,
+              "text": " ",
+              "confidence": 0.9,
+              "uuid": "dded4f2d-ad0e-4201-a4d0-72dfa11db612"
+            }
+          ],
+          "text": " ",
+          "uuid": "b6374953-1585-4756-9975-2ffba69307b6"
+        },
+        {
+          "bbox": [
+            486,
+            237,
+            1061,
+            265
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 3,
+          "lines": [
+            {
+              "bbox": [
+                486,
+                237,
+                1061,
+                265
+              ],
+              "line_id": 1,
+              "text": "BRAND COMMUNICATION",
+              "confidence": 0.9,
+              "uuid": "11609b5f-d0e9-404b-8994-2582a70c4148"
+            }
+          ],
+          "text": "BRAND COMMUNICATION",
+          "uuid": "32e1d917-6226-46fc-96c8-46305366798e"
+        },
+        {
+          "bbox": [
+            245,
+            398,
+            1045,
+            426
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 4,
+          "lines": [
+            {
+              "bbox": [
+                245,
+                398,
+                1045,
+                426
+              ],
+              "line_id": 1,
+              "text": "A witty \u2018edu-tainment\u2019 campaign with celebrities and",
+              "confidence": 0.9,
+              "uuid": "e6cd46ec-9efa-4058-85ed-702475b161b3"
+            }
+          ],
+          "text": "A witty \u2018edu-tainment\u2019 campaign with celebrities and",
+          "uuid": "60e0db09-1cb0-4e29-807c-e09cf47a8c0f"
+        },
+        {
+          "bbox": [
+            247,
+            442,
+            1106,
+            470
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 5,
+          "lines": [
+            {
+              "bbox": [
+                247,
+                442,
+                1106,
+                470
+              ],
+              "line_id": 1,
+              "text": "influencers reached millions of consumers across a range",
+              "confidence": 0.9,
+              "uuid": "a0e1f72e-bd09-4e2f-9425-501645703bd8"
+            }
+          ],
+          "text": "influencers reached millions of consumers across a range",
+          "uuid": "1ed3f880-ea87-45c7-a4d0-962314cc403e"
+        },
+        {
+          "bbox": [
+            246,
+            485,
+            1133,
+            514
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 6,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                485,
+                1133,
+                514
+              ],
+              "line_id": 1,
+              "text": "of digital and broadcast platforms. The campaign delivered",
+              "confidence": 0.9,
+              "uuid": "90251e3c-28ef-4710-91d5-df2d9ab32823"
+            }
+          ],
+          "text": "of digital and broadcast platforms. The campaign delivered",
+          "uuid": "6df2b7fb-f9cc-4604-a3a4-7a44bb07369c"
+        },
+        {
+          "bbox": [
+            246,
+            529,
+            1073,
+            557
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 7,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                529,
+                1073,
+                557
+              ],
+              "line_id": 1,
+              "text": "a humorous approach to tampon and period education",
+              "confidence": 0.9,
+              "uuid": "9b98ca04-0205-4930-8232-76da2afe5688"
+            }
+          ],
+          "text": "a humorous approach to tampon and period education",
+          "uuid": "f0bbba4f-eb10-4e3f-8e29-b0036273d3f2"
+        },
+        {
+          "bbox": [
+            246,
+            573,
+            917,
+            601
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 8,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                573,
+                917,
+                601
+              ],
+              "line_id": 1,
+              "text": "appealing to Gen Z and Millennial audiences.",
+              "confidence": 0.9,
+              "uuid": "fdaab8e1-e1f4-4196-a6ee-e9372c4d750c"
+            }
+          ],
+          "text": "appealing to Gen Z and Millennial audiences.",
+          "uuid": "d86801ac-a33e-488d-b3b7-41d4c3dcf7ad"
+        },
+        {
+          "bbox": [
+            245,
+            636,
+            1084,
+            664
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 9,
+          "lines": [
+            {
+              "bbox": [
+                245,
+                636,
+                1084,
+                664
+              ],
+              "line_id": 1,
+              "text": "This campaign contributed to double digit organic sales",
+              "confidence": 0.9,
+              "uuid": "78301df2-6648-42b6-9e89-2ae32f6ae292"
+            }
+          ],
+          "text": "This campaign contributed to double digit organic sales",
+          "uuid": "32b62999-9991-4e3b-800e-f293e5b7b5d2"
+        },
+        {
+          "bbox": [
+            246,
+            679,
+            1106,
+            707
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 10,
+          "lines": [
+            {
+              "bbox": [
+                246,
+                679,
+                1106,
+                707
+              ],
+              "line_id": 1,
+              "text": "growth for global Feminine Care in fiscal 2022, with value",
+              "confidence": 0.9,
+              "uuid": "3f8e0640-2951-45be-abdd-2fef0bc2f0e3"
+            }
+          ],
+          "text": "growth for global Feminine Care in fiscal 2022, with value",
+          "uuid": "61af7d88-83aa-4a66-b983-5b4696d08c1d"
+        },
+        {
+          "bbox": [
+            245,
+            723,
+            606,
+            751
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 11,
+          "lines": [
+            {
+              "bbox": [
+                245,
+                723,
+                606,
+                751
+              ],
+              "line_id": 1,
+              "text": "share up over one point.",
+              "confidence": 0.9,
+              "uuid": "452268cf-6798-498a-ad93-298189c1707b"
+            }
+          ],
+          "text": "share up over one point.",
+          "uuid": "1c2ea289-017f-454b-b4fc-2128d89e0501"
+        },
+        {
+          "bbox": [
+            391,
+            1018,
+            1066,
+            1019
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 12,
+          "lines": [
+            {
+              "bbox": [
+                391,
+                1018,
+                1066,
+                1019
+              ],
+              "line_id": 1,
+              "text": " ",
+              "confidence": 0.9,
+              "uuid": "d61f8c44-758e-419b-87a2-c80082722290"
+            }
+          ],
+          "text": " ",
+          "uuid": "cc26227d-8e1d-47cf-98d9-873b243b159e"
+        },
+        {
+          "bbox": [
+            240,
+            1014,
+            1186,
+            1554
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 13,
+          "lines": [
+            {
+              "bbox": [
+                240,
+                1014,
+                1186,
+                1554
+              ],
+              "line_id": 1,
+              "text": " ",
+              "confidence": 0.9,
+              "uuid": "55f5b993-b080-4969-8860-75d9cae74607"
+            }
+          ],
+          "text": " ",
+          "uuid": "4e9f1b27-6266-432c-8a94-54566e5ced0e"
+        },
+        {
+          "bbox": [
+            321,
+            1711,
+            1000,
+            1800
+          ],
+          "confidence": 0.81,
+          "paragraph_id": 14,
+          "lines": [
+            {
+              "bbox": [
+                321,
+                1711,
+                1000,
+                1800
+              ],
+              "line_id": 1,
+              "text": "@!;d*j;@ Read more about",
+              "confidence": 0.9,
+              "uuid": "1cef2e4d-6a9f-456d-af1b-970bc2ec50ca"
+            }
+          ],
+          "text": "@!;d*j;@ Read more about",
+          "uuid": "223b061d-8e81-4203-bba7-d3e514b2a1be"
+        },
+        {
+          "bbox": [
+            472,
+            1782,
+            1110,
+            1862
+          ],
+          "confidence": 0.79,
+          "paragraph_id": 15,
+          "lines": [
+            {
+              "bbox": [
+                472,
+                1782,
+                1110,
+                1862
+              ],
+              "line_id": 1,
+              "text": "g\ufb02 superiority at pg.com/",
+              "confidence": 0.9,
+              "uuid": "c82b0d29-aa8b-48ea-8054-d1e2538c9265"
+            }
+          ],
+          "text": "g\ufb02 superiority at pg.com/",
+          "uuid": "496a0412-da0a-4075-b97c-04d3baa14cbc"
+        },
+        {
+          "bbox": [
+            401,
+            1858,
+            1012,
+            1898
+          ],
+          "confidence": 0.46,
+          "paragraph_id": 16,
+          "lines": [
+            {
+              "bbox": [
+                401,
+                1858,
+                1012,
+                1898
+              ],
+              "line_id": 1,
+              "text": "= 2 annualreport2022",
+              "confidence": 0.9,
+              "uuid": "ad7c712b-db34-44c6-a1bf-d9d0e041eba8"
+            }
+          ],
+          "text": "= 2 annualreport2022",
+          "uuid": "edbb3dbe-ebde-4f84-a25d-69c207013d9f"
+        },
+        {
+          "bbox": [
+            321,
+            1871,
+            508,
+            1933
+          ],
+          "confidence": 0.28,
+          "paragraph_id": 17,
+          "lines": [
+            {
+              "bbox": [
+                321,
+                1871,
+                508,
+                1933
+              ],
+              "line_id": 1,
+              "text": "@5",
+              "confidence": 0.9,
+              "uuid": "d603efd9-91ce-4864-8ace-c430dd19790f"
+            }
+          ],
+          "text": "@5",
+          "uuid": "d10f3680-9186-404a-b3ef-60a07f481207"
+        },
+        {
+          "bbox": [
+            534,
+            2240,
+            639,
+            2478
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 18,
+          "lines": [
+            {
+              "bbox": [
+                534,
+                2240,
+                639,
+                2478
+              ],
+              "line_id": 1,
+              "text": " ",
+              "confidence": 0.9,
+              "uuid": "376a1265-f070-4b5c-a9e5-c45bc44569b7"
+            }
+          ],
+          "text": " ",
+          "uuid": "9230bdd8-910e-4e08-9cf5-c124e5985b84"
+        },
+        {
+          "bbox": [
+            442,
+            2666,
+            1044,
+            3150
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 19,
+          "lines": [
+            {
+              "bbox": [
+                442,
+                2666,
+                1044,
+                3150
+              ],
+              "line_id": 1,
+              "text": "   ",
+              "confidence": 0.9,
+              "uuid": "1ede19db-6a34-4d95-a594-80c722795ce0"
+            }
+          ],
+          "text": "   ",
+          "uuid": "d838d3b2-8234-44bd-b624-e01908dbe6d4"
+        },
+        {
+          "bbox": [
+            1132,
+            2634,
+            1176,
+            2682
+          ],
+          "confidence": 0.95,
+          "paragraph_id": 20,
+          "lines": [
+            {
+              "bbox": [
+                1132,
+                2634,
+                1176,
+                2682
+              ],
+              "line_id": 1,
+              "text": " ",
+              "confidence": 0.9,
+              "uuid": "669aa83e-1536-4f33-a574-a0c0faee359b"
+            }
+          ],
+          "text": " ",
+          "uuid": "13ba9ab3-daaa-4031-a4b9-ea77ce867296"
+        },
+        {
+          "bbox": [
+            1696,
+            168,
+            2194,
+            195
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 21,
+          "lines": [
+            {
+              "bbox": [
+                1696,
+                168,
+                2194,
+                195
+              ],
+              "line_id": 1,
+              "text": "The Procter & Gamble Company - v",
+              "confidence": 0.9,
+              "uuid": "5de24ed8-bd9e-4168-b1f3-495402f21045"
+            }
+          ],
+          "text": "The Procter & Gamble Company - v",
+          "uuid": "191ac9c7-4406-48f0-989a-125da5b7e104"
+        },
+        {
+          "bbox": [
+            1409,
+            296,
+            1841,
+            341
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 22,
+          "lines": [
+            {
+              "bbox": [
+                1409,
+                296,
+                1841,
+                341
+              ],
+              "line_id": 1,
+              "text": "A Constructive",
+              "confidence": 0.9,
+              "uuid": "93604956-66f4-4451-9c3a-c048d00d8064"
+            }
+          ],
+          "text": "A Constructive",
+          "uuid": "7a61661a-74e3-40bc-a53e-048832b6d6db"
+        },
+        {
+          "bbox": [
+            1416,
+            373,
+            1972,
+            428
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 23,
+          "lines": [
+            {
+              "bbox": [
+                1416,
+                373,
+                1972,
+                428
+              ],
+              "line_id": 1,
+              "text": "Disruption Mindset",
+              "confidence": 0.9,
+              "uuid": "466e18a1-4c57-47be-9d3c-078e2b793be5"
+            }
+          ],
+          "text": "Disruption Mindset",
+          "uuid": "a4aa7fc0-d61f-4ff3-a319-1d2f11655623"
+        },
+        {
+          "bbox": [
+            1413,
+            472,
+            2126,
+            504
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 24,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                472,
+                2126,
+                504
+              ],
+              "line_id": 1,
+              "text": "Success in our highly competitive industry",
+              "confidence": 0.9,
+              "uuid": "7d0b5b48-c2b3-4536-9f40-bd9228e3720b"
+            }
+          ],
+          "text": "Success in our highly competitive industry",
+          "uuid": "0235f57d-28fa-49a8-996d-74b792517454"
+        },
+        {
+          "bbox": [
+            1413,
+            522,
+            2193,
+            554
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 25,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                522,
+                2193,
+                554
+              ],
+              "line_id": 1,
+              "text": "also requires agility that comes with a mindset",
+              "confidence": 0.9,
+              "uuid": "e44834a5-b855-44da-b6bd-38ee043bf717"
+            }
+          ],
+          "text": "also requires agility that comes with a mindset",
+          "uuid": "42ea6510-2a3f-44b1-967c-f7ac064b6d91"
+        },
+        {
+          "bbox": [
+            1412,
+            572,
+            2144,
+            604
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 26,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                572,
+                2144,
+                604
+              ],
+              "line_id": 1,
+              "text": "of constructive disruption\u2014a willingness to",
+              "confidence": 0.9,
+              "uuid": "dccee7bf-0d68-4ff5-a161-fe10d1464514"
+            }
+          ],
+          "text": "of constructive disruption\u2014a willingness to",
+          "uuid": "b33a3a2e-c383-4d59-a465-8ba89fb8168f"
+        },
+        {
+          "bbox": [
+            1412,
+            622,
+            2109,
+            654
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 27,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                622,
+                2109,
+                654
+              ],
+              "line_id": 1,
+              "text": "change, adapt and create new trends and",
+              "confidence": 0.9,
+              "uuid": "63c2ba6a-4f04-4da2-9bba-3c11ce277368"
+            }
+          ],
+          "text": "change, adapt and create new trends and",
+          "uuid": "7892b568-f02a-4eef-a9ec-768c113ab352"
+        },
+        {
+          "bbox": [
+            1412,
+            672,
+            2100,
+            704
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 28,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                672,
+                2100,
+                704
+              ],
+              "line_id": 1,
+              "text": "technologies that will shape our industry",
+              "confidence": 0.9,
+              "uuid": "3f149a75-d302-40ee-a0c8-4973f861a9cf"
+            }
+          ],
+          "text": "technologies that will shape our industry",
+          "uuid": "f137b121-1d43-417f-9ddf-46f2fae06683"
+        },
+        {
+          "bbox": [
+            1412,
+            722,
+            2083,
+            748
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 29,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                722,
+                2083,
+                748
+              ],
+              "line_id": 1,
+              "text": "for the future. A mindset of constructive",
+              "confidence": 0.9,
+              "uuid": "1ef5372d-0bc2-4b52-aaec-f5e26d996a17"
+            }
+          ],
+          "text": "for the future. A mindset of constructive",
+          "uuid": "0df2e513-f49b-4951-b0a9-d830c153c02e"
+        },
+        {
+          "bbox": [
+            1412,
+            772,
+            2097,
+            804
+          ],
+          "confidence": 0.83,
+          "paragraph_id": 30,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                772,
+                2097,
+                804
+              ],
+              "line_id": 1,
+              "text": "disruption is even more important in this",
+              "confidence": 0.9,
+              "uuid": "ac3fce32-c745-47db-88c4-63a677c45eb6"
+            }
+          ],
+          "text": "disruption is even more important in this",
+          "uuid": "36901245-a8ba-4166-8dcf-ed0ed50100a5"
+        },
+        {
+          "bbox": [
+            1412,
+            822,
+            1843,
+            854
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 31,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                822,
+                1843,
+                854
+              ],
+              "line_id": 1,
+              "text": "challenging environment.",
+              "confidence": 0.9,
+              "uuid": "79dcc42e-51fd-404e-b20c-5eedda59fd27"
+            }
+          ],
+          "text": "challenging environment.",
+          "uuid": "5a477f5c-08cb-4d46-8615-9ec833d2aef1"
+        },
+        {
+          "bbox": [
+            1410,
+            902,
+            2124,
+            934
+          ],
+          "confidence": 0.89,
+          "paragraph_id": 32,
+          "lines": [
+            {
+              "bbox": [
+                1410,
+                902,
+                2124,
+                934
+              ],
+              "line_id": 1,
+              "text": "A good example of constructive disruption",
+              "confidence": 0.9,
+              "uuid": "1ad2c1b0-42c0-4e48-8b39-b7cf38bb5ea6"
+            }
+          ],
+          "text": "A good example of constructive disruption",
+          "uuid": "1a072ec0-73de-4853-82d6-e4c079ec37bb"
+        },
+        {
+          "bbox": [
+            1415,
+            952,
+            2063,
+            984
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 33,
+          "lines": [
+            {
+              "bbox": [
+                1415,
+                952,
+                2063,
+                984
+              ],
+              "line_id": 1,
+              "text": "in a category is Dawn Powerwash Dish",
+              "confidence": 0.9,
+              "uuid": "7ce6343a-42c8-43b3-8397-11a1b2ce3c21"
+            }
+          ],
+          "text": "in a category is Dawn Powerwash Dish",
+          "uuid": "519ac00f-ccb1-4a38-852e-56bda68bc552"
+        },
+        {
+          "bbox": [
+            1413,
+            1002,
+            2176,
+            1034
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 34,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                1002,
+                2176,
+                1034
+              ],
+              "line_id": 1,
+              "text": "Spray, which addresses the changing habit of",
+              "confidence": 0.9,
+              "uuid": "2493de59-887a-4da8-9691-f353678da069"
+            }
+          ],
+          "text": "Spray, which addresses the changing habit of",
+          "uuid": "b31c4e26-2224-4a19-bafb-0e6ad5562772"
+        },
+        {
+          "bbox": [
+            1412,
+            1052,
+            2147,
+            1084
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 35,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1052,
+                2147,
+                1084
+              ],
+              "line_id": 1,
+              "text": "washing dishes as you go instead of waiting",
+              "confidence": 0.9,
+              "uuid": "9e840aef-7816-4944-a130-021f4c05bca1"
+            }
+          ],
+          "text": "washing dishes as you go instead of waiting",
+          "uuid": "064c14fb-9bb1-4f32-a78a-0fba8d5dd45b"
+        },
+        {
+          "bbox": [
+            1414,
+            1098,
+            2152,
+            1138
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 36,
+          "lines": [
+            {
+              "bbox": [
+                1414,
+                1098,
+                2152,
+                1138
+              ],
+              "line_id": 1,
+              "text": "until the end of a meal. The product enables",
+              "confidence": 0.9,
+              "uuid": "517a8a4c-e0d4-4f6a-8193-828eb22a10c7"
+            }
+          ],
+          "text": "until the end of a meal. The product enables",
+          "uuid": "6c6efa1e-eb76-4f10-a7fc-18702438139a"
+        },
+        {
+          "bbox": [
+            1412,
+            1152,
+            2159,
+            1184
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 37,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1152,
+                2159,
+                1184
+              ],
+              "line_id": 1,
+              "text": "direct application of activated suds to dishes",
+              "confidence": 0.9,
+              "uuid": "5b2fd132-a641-4ccd-9b55-593b91ffa80d"
+            }
+          ],
+          "text": "direct application of activated suds to dishes",
+          "uuid": "534df6c6-f9ae-4858-a814-870ef02da585"
+        },
+        {
+          "bbox": [
+            1412,
+            1202,
+            2174,
+            1234
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 38,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1202,
+                2174,
+                1234
+              ],
+              "line_id": 1,
+              "text": "to speed up the entire process, saving people",
+              "confidence": 0.9,
+              "uuid": "279c5afd-11b9-4a5a-a966-5a6fc4970157"
+            }
+          ],
+          "text": "to speed up the entire process, saving people",
+          "uuid": "48ff44a6-6983-4006-ae9b-64018cdad256"
+        },
+        {
+          "bbox": [
+            1414,
+            1252,
+            1887,
+            1284
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 39,
+          "lines": [
+            {
+              "bbox": [
+                1414,
+                1252,
+                1887,
+                1284
+              ],
+              "line_id": 1,
+              "text": "not only time but also water.",
+              "confidence": 0.9,
+              "uuid": "f42c7190-40d0-47c9-a0da-4cf14f1d7b69"
+            }
+          ],
+          "text": "not only time but also water.",
+          "uuid": "90647f14-a477-43b0-93b8-c804fb0f1351"
+        },
+        {
+          "bbox": [
+            1410,
+            1332,
+            2077,
+            1364
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 40,
+          "lines": [
+            {
+              "bbox": [
+                1410,
+                1332,
+                2077,
+                1364
+              ],
+              "line_id": 1,
+              "text": "Another example is how we continue to",
+              "confidence": 0.9,
+              "uuid": "59bd3b7d-ec13-4850-93f5-47a9e91889dd"
+            }
+          ],
+          "text": "Another example is how we continue to",
+          "uuid": "957c7b2b-7bba-4207-b4f1-cb9832ad0ecb"
+        },
+        {
+          "bbox": [
+            1414,
+            1382,
+            2066,
+            1414
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 41,
+          "lines": [
+            {
+              "bbox": [
+                1414,
+                1382,
+                2066,
+                1414
+              ],
+              "line_id": 1,
+              "text": "reinvent brand building, including how",
+              "confidence": 0.9,
+              "uuid": "ad9f4836-3b9b-4984-9172-ab3668591f56"
+            }
+          ],
+          "text": "reinvent brand building, including how",
+          "uuid": "6fadb4c0-118a-4738-8bad-21663324200a"
+        },
+        {
+          "bbox": [
+            1412,
+            1432,
+            2113,
+            1464
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 42,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1432,
+                2113,
+                1464
+              ],
+              "line_id": 1,
+              "text": "we reach consumers more effectively and",
+              "confidence": 0.9,
+              "uuid": "76097049-0a2c-4102-b950-06fbdec046b1"
+            }
+          ],
+          "text": "we reach consumers more effectively and",
+          "uuid": "8d225330-92a8-4568-91f7-7a26b020d9fe"
+        },
+        {
+          "bbox": [
+            1412,
+            1482,
+            2114,
+            1514
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 43,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1482,
+                2114,
+                1514
+              ],
+              "line_id": 1,
+              "text": "efficiently. Pampers, our largest and most",
+              "confidence": 0.9,
+              "uuid": "286c2acc-b921-41df-9ffe-e8292db8d2b0"
+            }
+          ],
+          "text": "efficiently. Pampers, our largest and most",
+          "uuid": "bd947d51-7489-4cb8-b5ae-0ce2fc27e129"
+        },
+        {
+          "bbox": [
+            1412,
+            1532,
+            2072,
+            1564
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 44,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1532,
+                2072,
+                1564
+              ],
+              "line_id": 1,
+              "text": "global brand, is relatively unique in that",
+              "confidence": 0.9,
+              "uuid": "4f448b65-bdb6-449d-99ce-db4406b6ba27"
+            }
+          ],
+          "text": "global brand, is relatively unique in that",
+          "uuid": "094cacdc-2452-4590-9c55-ddc115c04cf0"
+        },
+        {
+          "bbox": [
+            1415,
+            1582,
+            2109,
+            1614
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 45,
+          "lines": [
+            {
+              "bbox": [
+                1415,
+                1582,
+                2109,
+                1614
+              ],
+              "line_id": 1,
+              "text": "its primary audience is narrow: parents of",
+              "confidence": 0.9,
+              "uuid": "468bd979-8c67-47df-9736-8af8c73ac1bc"
+            }
+          ],
+          "text": "its primary audience is narrow: parents of",
+          "uuid": "a7e3b47e-5a8a-458d-be3f-1f717c2703d7"
+        },
+        {
+          "bbox": [
+            1412,
+            1632,
+            2092,
+            1664
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 46,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1632,
+                2092,
+                1664
+              ],
+              "line_id": 1,
+              "text": "children at diapering age. To reach these",
+              "confidence": 0.9,
+              "uuid": "5a2436ab-9acf-4679-b038-cdae63439a90"
+            }
+          ],
+          "text": "children at diapering age. To reach these",
+          "uuid": "fd255548-30d5-4cf9-9a15-49cfbbbf755a"
+        },
+        {
+          "bbox": [
+            1414,
+            1682,
+            2165,
+            1714
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 47,
+          "lines": [
+            {
+              "bbox": [
+                1414,
+                1682,
+                2165,
+                1714
+              ],
+              "line_id": 1,
+              "text": "parents more precisely, Pampers created the",
+              "confidence": 0.9,
+              "uuid": "19c94d6c-afb5-4f34-a5bc-2f6c292fc159"
+            }
+          ],
+          "text": "parents more precisely, Pampers created the",
+          "uuid": "801b0f69-da8b-43fd-8984-3195774e4c45"
+        },
+        {
+          "bbox": [
+            1415,
+            1732,
+            2176,
+            1764
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 48,
+          "lines": [
+            {
+              "bbox": [
+                1415,
+                1732,
+                2176,
+                1764
+              ],
+              "line_id": 1,
+              "text": "Pampers Rewards app so parents can receive",
+              "confidence": 0.9,
+              "uuid": "aed8ec2f-6847-46d9-b167-d226d9816321"
+            }
+          ],
+          "text": "Pampers Rewards app so parents can receive",
+          "uuid": "47c11e9e-b5f2-4226-8e19-55e131e5b9ca"
+        },
+        {
+          "bbox": [
+            1415,
+            1782,
+            2145,
+            1814
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 49,
+          "lines": [
+            {
+              "bbox": [
+                1415,
+                1782,
+                2145,
+                1814
+              ],
+              "line_id": 1,
+              "text": "helpful information, tips, deals and rewards.",
+              "confidence": 0.9,
+              "uuid": "2d98a0ea-3d29-4142-b45d-3930fd6dcf96"
+            }
+          ],
+          "text": "helpful information, tips, deals and rewards.",
+          "uuid": "d6affb62-a498-46eb-a1a2-db4354bfc88b"
+        },
+        {
+          "bbox": [
+            1412,
+            1832,
+            2096,
+            1864
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 50,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1832,
+                2096,
+                1864
+              ],
+              "line_id": 1,
+              "text": "With this app, Pampers was able to build",
+              "confidence": 0.9,
+              "uuid": "b6ef7620-576b-440f-bb81-19798f25700a"
+            }
+          ],
+          "text": "With this app, Pampers was able to build",
+          "uuid": "ed6f7c8c-eda7-4ad4-9e63-fd90833cfa78"
+        },
+        {
+          "bbox": [
+            1413,
+            1882,
+            2172,
+            1914
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 51,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                1882,
+                2172,
+                1914
+              ],
+              "line_id": 1,
+              "text": "smart audiences to reach parents at different",
+              "confidence": 0.9,
+              "uuid": "150a5a0a-47ab-4fae-b749-0d85a776da41"
+            }
+          ],
+          "text": "smart audiences to reach parents at different",
+          "uuid": "9a738108-c597-41c1-aa7d-fda683093e5c"
+        },
+        {
+          "bbox": [
+            1413,
+            1932,
+            2136,
+            1964
+          ],
+          "confidence": 0.87,
+          "paragraph_id": 52,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                1932,
+                2136,
+                1964
+              ],
+              "line_id": 1,
+              "text": "stages\u2014like newborns, crawling and potty",
+              "confidence": 0.9,
+              "uuid": "ca341605-33f9-43ce-a1a2-305571b1942a"
+            }
+          ],
+          "text": "stages\u2014like newborns, crawling and potty",
+          "uuid": "872d0e85-53da-4866-a145-8aa742c86c28"
+        },
+        {
+          "bbox": [
+            1412,
+            1982,
+            2086,
+            2014
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 53,
+          "lines": [
+            {
+              "bbox": [
+                1412,
+                1982,
+                2086,
+                2014
+              ],
+              "line_id": 1,
+              "text": "training\u2014with more precise advertising",
+              "confidence": 0.9,
+              "uuid": "a5a9e191-61ac-4157-a2aa-ce74ccf9b212"
+            }
+          ],
+          "text": "training\u2014with more precise advertising",
+          "uuid": "4c52b80d-7605-4a00-9476-0a41c5370fae"
+        },
+        {
+          "bbox": [
+            1413,
+            2032,
+            2189,
+            2064
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 54,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                2032,
+                2189,
+                2064
+              ],
+              "line_id": 1,
+              "text": "specifically designed for each media platform,",
+              "confidence": 0.9,
+              "uuid": "0f09ddaf-efdf-498a-8b49-9ae0244d6599"
+            }
+          ],
+          "text": "specifically designed for each media platform,",
+          "uuid": "d6dac735-0ded-4ad3-a2bb-1c0e29405dfc"
+        },
+        {
+          "bbox": [
+            1415,
+            2082,
+            2129,
+            2114
+          ],
+          "confidence": 0.79,
+          "paragraph_id": 55,
+          "lines": [
+            {
+              "bbox": [
+                1415,
+                2082,
+                2129,
+                2114
+              ],
+              "line_id": 1,
+              "text": "increasing the brand'\u2019s reach, effectiveness",
+              "confidence": 0.9,
+              "uuid": "3a26eab2-4f73-481f-a3c6-24a7509c998a"
+            }
+          ],
+          "text": "increasing the brand'\u2019s reach, effectiveness",
+          "uuid": "e478ff4d-9ee0-4f9c-a13b-3cc600417c75"
+        },
+        {
+          "bbox": [
+            1413,
+            2132,
+            2103,
+            2164
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 56,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                2132,
+                2103,
+                2164
+              ],
+              "line_id": 1,
+              "text": "and efficiency, while driving cost savings.",
+              "confidence": 0.9,
+              "uuid": "cfac42dc-75da-4548-ac62-8f0d1cf66784"
+            }
+          ],
+          "text": "and efficiency, while driving cost savings.",
+          "uuid": "2070fc63-b5a3-4a23-b67a-16d9594f01e9"
+        },
+        {
+          "bbox": [
+            1411,
+            2268,
+            2185,
+            2302
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 57,
+          "lines": [
+            {
+              "bbox": [
+                1411,
+                2268,
+                2185,
+                2302
+              ],
+              "line_id": 1,
+              "text": "Success in our highly competitive industry",
+              "confidence": 0.9,
+              "uuid": "48f31e28-d068-4de2-9841-5927c523bc1d"
+            }
+          ],
+          "text": "Success in our highly competitive industry",
+          "uuid": "1758e290-aa45-4777-a38c-cb592f07d6e7"
+        },
+        {
+          "bbox": [
+            1413,
+            2318,
+            2088,
+            2352
+          ],
+          "confidence": 0.92,
+          "paragraph_id": 58,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                2318,
+                2088,
+                2352
+              ],
+              "line_id": 1,
+              "text": "requires the agility that comes with a",
+              "confidence": 0.9,
+              "uuid": "6495f27d-7ef5-43f5-b79e-14b88b6abf88"
+            }
+          ],
+          "text": "requires the agility that comes with a",
+          "uuid": "bd2c24a1-02ea-43bb-b62a-afe8b31d8d90"
+        },
+        {
+          "bbox": [
+            1413,
+            2368,
+            2081,
+            2401
+          ],
+          "confidence": 0.9,
+          "paragraph_id": 59,
+          "lines": [
+            {
+              "bbox": [
+                1413,
+                2368,
+                2081,
+                2401
+              ],
+              "line_id": 1,
+              "text": "mindset of constructive disruption\u2014",
+              "confidence": 0.9,
+              "uuid": "426d3d26-359c-406d-b56e-53f756de186d"
+            }
+          ],
+          "text": "mindset of constructive disruption\u2014",
+          "uuid": "725169c3-b68f-4455-a45f-ad1ad12c3e76"
+        },
+        {
+          "bbox": [
+            1458,
+            2597,
+            2191,
+            2634
+          ],
+          "confidence": 0.86,
+          "paragraph_id": 60,
+          "lines": [
+            {
+              "bbox": [
+                1458,
+                2597,
+                2191,
+                2634
+              ],
+              "line_id": 1,
+              "text": "Lean Brand Supply Digitization",
+              "confidence": 0.9,
+              "uuid": "272fd53a-2f48-4c7c-84d1-44090de805e0"
+            }
+          ],
+          "text": "Lean Brand Supply Digitization",
+          "uuid": "4a2890b9-89a7-4e7f-b961-9b2f6b86cf6a"
+        },
+        {
+          "bbox": [
+            1411,
+            2638,
+            2151,
+            2675
+          ],
+          "confidence": 0.88,
+          "paragraph_id": 61,
+          "lines": [
+            {
+              "bbox": [
+                1411,
+                2638,
+                2151,
+                2675
+              ],
+              "line_id": 1,
+              "text": "Innovation Building Chain & Data",
+              "confidence": 0.9,
+              "uuid": "f65273a5-99a2-4838-b5a5-7443b9337ba4"
+            }
+          ],
+          "text": "Innovation Building Chain & Data",
+          "uuid": "35204427-4afa-42cf-bb71-6b3a039855fc"
+        },
+        {
+          "bbox": [
+            2024,
+            2683,
+            2174,
+            2713
+          ],
+          "confidence": 0.91,
+          "paragraph_id": 62,
+          "lines": [
+            {
+              "bbox": [
+                2024,
+                2683,
+                2174,
+                2713
+              ],
+              "line_id": 1,
+              "text": "Analytics",
+              "confidence": 0.9,
+              "uuid": "1b33436d-45a6-4114-8b31-00f9a255e02f"
+            }
+          ],
+          "text": "Analytics",
+          "uuid": "2c8a2c5a-ef03-498d-b86c-ce499760cee4"
+        }
+      ],
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "page": 3
+    }
+  ],
+  "raw_file_id": "-",
+  "raw_file_name": "-"
+}

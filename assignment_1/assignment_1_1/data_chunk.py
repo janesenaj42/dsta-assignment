@@ -124,8 +124,10 @@ def create_document_string(page, prefix='### Input:\n\n', connector='\t', simple
             document += text + '\n'
         document += '\n'
     else:
-        # todo: Question 1
-        pass
+        # todo: Question 1 (1_2)
+        sorted_paragraphs = sorted(page['paragraphs'], key=lambda x: (x['bbox'][1], x['bbox'][0]))
+        document = ' '.join([paragraph['text'] for paragraph in sorted_paragraphs])
+        document = re.sub(r'\n', ' ', document)
     return document
 
 

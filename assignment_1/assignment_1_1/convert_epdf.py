@@ -7,7 +7,7 @@ import pydash
 from fitz import fitz
 from typing import List
 from assignment_1.assignment_1_1.helper_convert import normalize, extract_page_blocks
-
+import os
 
 def dump_paragraphs(page_blocks: List[dict]):
     words = blocks_to_words(page_blocks)
@@ -159,20 +159,44 @@ def remove_zero_bboxes(words):
 
 
 def remove_dir_outliner(words, threshold=3):
-    dir_x = [x[8] for x in words]
-    dir_y = [x[9] for x in words]
+    dir_x = np.array([x[8] for x in words])
+    dir_y = np.array([x[9] for x in words])
     # todo:  Question 1
-    return words
+    
+    angles = np.arctan2(dir_y, dir_x)
+
+    angle_mean = np.mean(angles)
+    angle_std = np.std(angles)
+
+    # all angles same
+    if angle_std == 0:
+        return words
+
+    z_scores = (angles - angle_mean) / angle_std
+
+    return [word for word, z in zip(words, z_scores) if abs(z) < threshold]
 
 
 def filter_top_half(words):
     # todo: Question 2
-    return words
+
+    if not words:
+        return []
+
+    y_min = min(word[1] for word in words)
+    y_max = max(word[3] for word in words)
+    y_mid = (y_min + y_max) / 2
+
+    return [word for word in words if word[1] < y_mid and word[3] < y_mid]
 
 
 def remove_large_bbox(words):
     # todo: Question 3
-    return words
+
+    bbs = np.array([w[:4] for w in words])
+    bb_height = bbs[:,3] - bbs[:,1]
+    bb_height_large = bb_height > 12
+    return [w for i, w in enumerate(words) if not bb_height_large[i]]
 
 
 def pymupdf_transform_to_idp_format(pdf_bin):
@@ -208,14 +232,28 @@ def convert_e_pdf(pdf_bin):
 
 def extract_images(pdf_bin, save_path):
     # todo: Question 4
-    pass
+    
+    os.makedirs(save_path, exist_ok=True)
+
+    buf = io.BytesIO(pdf_bin)
+    doc = fitz.Document(stream=buf, filetype="pdf")
+
+    for i, page in enumerate(doc):
+        blocks = extract_page_blocks(doc.load_page(i))
+        for block_num, block in enumerate(blocks):
+            if block["type"] == 1: # 1 is image
+                img = page.get_pixmap(clip=block["bbox"])
+                img.save(f"{save_path}/{i}_{block_num}.png")
+                # print(f"saved {save_path}/{i}_{block_num}.png")
 
 
 if __name__ == "__main__":
+    filename = 'peak_2022'
+
     dataset_dir = pathlib.Path(__file__).parents[1]
-    input_path = 'assignment_1_1/data/epdf_sample.pdf'
+    input_path = f'assignment_1_1/data/{filename}.pdf'
     pdf_path = dataset_dir / input_path
-    save_path = 'assignment_1_1/data/epdf_sample'
+    save_path = f'assignment_1_1/data/{filename}'
     test_file = dataset_dir / f'{save_path}.json'
 
     pdf_bin = pdf_path.read_bytes()
@@ -223,7 +261,7 @@ if __name__ == "__main__":
     with open(test_file, 'w') as f:
         json.dump(result, f, indent=2)
 
-    # extract_images(pdf_bin, save_path)
+    extract_images(pdf_bin, save_path)
 
 
 

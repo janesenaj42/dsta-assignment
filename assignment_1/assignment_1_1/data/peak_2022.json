@@ -1,0 +1,563 @@
+{
+  "pages": [
+    {
+      "bbox": [
+        0,
+        0,
+        594,
+        774
+      ],
+      "paragraphs": [
+        {
+          "bbox": [
+            222,
+            345,
+            310,
+            357
+          ],
+          "lines": [
+            {
+              "bbox": [
+                222,
+                345,
+                310,
+                357
+              ],
+              "char_height": 11,
+              "char_width": 4,
+              "text": "Total Square Feet (SF)",
+              "chars": {
+                "text": [
+                  "T",
+                  "o",
+                  "t",
+                  "a",
+                  "l",
+                  " ",
+                  "S",
+                  "q",
+                  "u",
+                  "a",
+                  "r",
+                  "e",
+                  " ",
+                  "F",
+                  "e",
+                  "e",
+                  "t",
+                  " ",
+                  "(",
+                  "S",
+                  "F",
+                  ")"
+                ],
+                "x0_list": [
+                  222,
+                  226,
+                  230,
+                  234,
+                  238,
+                  242,
+                  244,
+                  249,
+                  253,
+                  258,
+                  263,
+                  268,
+                  272,
+                  275,
+                  279,
+                  284,
+                  288,
+                  292,
+                  295,
+                  299,
+                  303,
+                  306
+                ]
+              },
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "631f8d67-6d0c-4f5d-b0bb-9306ac1f6a25"
+            }
+          ],
+          "text": "Total Square Feet (SF)",
+          "paragraph_id": 1,
+          "uuid": "9c365749-18d1-40c4-b4d4-71bef31c9abc",
+          "confidence": 0.9
+        },
+        {
+          "bbox": [
+            404,
+            340,
+            506,
+            362
+          ],
+          "lines": [
+            {
+              "bbox": [
+                404,
+                340,
+                500,
+                351
+              ],
+              "char_height": 11,
+              "char_width": 5,
+              "text": "2022 Same-Store Cash ",
+              "chars": {
+                "text": [
+                  "2",
+                  "0",
+                  "2",
+                  "2",
+                  " ",
+                  "S",
+                  "a",
+                  "m",
+                  "e",
+                  "-",
+                  "S",
+                  "t",
+                  "o",
+                  "r",
+                  "e",
+                  " ",
+                  "C",
+                  "a",
+                  "s",
+                  "h",
+                  " "
+                ],
+                "x0_list": [
+                  404,
+                  409,
+                  414,
+                  419,
+                  424,
+                  427,
+                  431,
+                  436,
+                  441,
+                  446,
+                  451,
+                  455,
+                  460,
+                  465,
+                  470,
+                  475,
+                  477,
+                  482,
+                  487,
+                  492,
+                  497
+                ]
+              },
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "8a8b7f4e-9b18-4396-b6a5-cd29ca993ef0"
+            },
+            {
+              "bbox": [
+                404,
+                351,
+                506,
+                362
+              ],
+              "char_height": 11,
+              "char_width": 4,
+              "text": "(Adjusted) NOI Growth(1)",
+              "chars": {
+                "text": [
+                  "(",
+                  "A",
+                  "d",
+                  "j",
+                  "u",
+                  "s",
+                  "t",
+                  "e",
+                  "d",
+                  ")",
+                  " ",
+                  "N",
+                  "O",
+                  "I",
+                  " ",
+                  "G",
+                  "r",
+                  "o",
+                  "w",
+                  "t",
+                  "h",
+                  "(",
+                  "1",
+                  ")"
+                ],
+                "x0_list": [
+                  404,
+                  408,
+                  413,
+                  417,
+                  421,
+                  425,
+                  430,
+                  434,
+                  438,
+                  443,
+                  447,
+                  450,
+                  455,
+                  460,
+                  465,
+                  468,
+                  473,
+                  478,
+                  483,
+                  489,
+                  494,
+                  499,
+                  501,
+                  503
+                ]
+              },
+              "line_id": 2,
+              "confidence": 0.9,
+              "uuid": "c0eb4a61-c4dd-4c8e-bbe4-f2764134deb5"
+            }
+          ],
+          "text": "2022 Same-Store Cash \n(Adjusted) NOI Growth(1)",
+          "paragraph_id": 2,
+          "uuid": "4ad61f31-917c-463a-96a4-81e13b9088a8",
+          "confidence": 0.9
+        },
+        {
+          "bbox": [
+            222,
+            377,
+            270,
+            388
+          ],
+          "lines": [
+            {
+              "bbox": [
+                222,
+                377,
+                270,
+                388
+              ],
+              "char_height": 11,
+              "char_width": 5,
+              "text": "On Campus",
+              "chars": {
+                "text": [
+                  "O",
+                  "n",
+                  " ",
+                  "C",
+                  "a",
+                  "m",
+                  "p",
+                  "u",
+                  "s"
+                ],
+                "x0_list": [
+                  222,
+                  228,
+                  234,
+                  236,
+                  242,
+                  248,
+                  253,
+                  259,
+                  265
+                ]
+              },
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "20c8769d-538f-4f1a-9d69-ecc582f78602"
+            }
+          ],
+          "text": "On Campus",
+          "paragraph_id": 3,
+          "uuid": "03be30e6-07eb-4bdb-b5c0-f9f06890d157",
+          "confidence": 0.9
+        },
+        {
+          "bbox": [
+            409,
+            372,
+            510,
+            394
+          ],
+          "lines": [
+            {
+              "bbox": [
+                409,
+                372,
+                510,
+                383
+              ],
+              "char_height": 11,
+              "char_width": 5,
+              "text": "Same-Store Occupancy ",
+              "chars": {
+                "text": [
+                  "S",
+                  "a",
+                  "m",
+                  "e",
+                  "-",
+                  "S",
+                  "t",
+                  "o",
+                  "r",
+                  "e",
+                  " ",
+                  "O",
+                  "c",
+                  "c",
+                  "u",
+                  "p",
+                  "a",
+                  "n",
+                  "c",
+                  "y",
+                  " "
+                ],
+                "x0_list": [
+                  409,
+                  414,
+                  419,
+                  424,
+                  429,
+                  433,
+                  438,
+                  443,
+                  448,
+                  453,
+                  457,
+                  460,
+                  465,
+                  470,
+                  476,
+                  481,
+                  486,
+                  491,
+                  497,
+                  502,
+                  507
+                ]
+              },
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "5c2a3ea8-602d-4e4e-b8f8-69ff54374b73"
+            },
+            {
+              "bbox": [
+                409,
+                382,
+                457,
+                394
+              ],
+              "char_height": 11,
+              "char_width": 5,
+              "text": "(12/31/22)",
+              "chars": {
+                "text": [
+                  "(",
+                  "1",
+                  "2",
+                  "/",
+                  "3",
+                  "1",
+                  "/",
+                  "2",
+                  "2",
+                  ")"
+                ],
+                "x0_list": [
+                  409,
+                  414,
+                  419,
+                  424,
+                  428,
+                  433,
+                  438,
+                  443,
+                  447,
+                  452
+                ]
+              },
+              "line_id": 2,
+              "confidence": 0.9,
+              "uuid": "a59d1aa0-ddcb-461b-afae-b114a79ac215"
+            }
+          ],
+          "text": "Same-Store Occupancy \n(12/31/22)",
+          "paragraph_id": 4,
+          "uuid": "7dd71981-f38e-4a1d-8918-25f974bd5c91",
+          "confidence": 0.9
+        },
+        {
+          "bbox": [
+            54,
+            399,
+            56,
+            409
+          ],
+          "lines": [
+            {
+              "bbox": [
+                54,
+                399,
+                56,
+                409
+              ],
+              "char_height": 10,
+              "char_width": 2,
+              "text": " ",
+              "chars": {
+                "text": [
+                  " "
+                ],
+                "x0_list": [
+                  54
+                ]
+              },
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "be77a318-6c0d-456d-9132-5ee678712ca3"
+            }
+          ],
+          "text": " ",
+          "paragraph_id": 5,
+          "uuid": "2ad70bf7-77db-4b77-b0fb-632c2d9553b1",
+          "confidence": 0.9
+        },
+        {
+          "bbox": [
+            448,
+            291,
+            534,
+            312
+          ],
+          "lines": [
+            {
+              "bbox": [
+                448,
+                291,
+                534,
+                301
+              ],
+              "char_height": 10,
+              "char_width": 5,
+              "text": "LONE PEAK HOSPITAL ",
+              "chars": {
+                "text": [
+                  "L",
+                  "O",
+                  "N",
+                  "E",
+                  " ",
+                  "P",
+                  "E",
+                  "A",
+                  "K",
+                  " ",
+                  "H",
+                  "O",
+                  "S",
+                  "P",
+                  "I",
+                  "T",
+                  "A",
+                  "L",
+                  " "
+                ],
+                "x0_list": [
+                  448,
+                  453,
+                  458,
+                  464,
+                  469,
+                  471,
+                  476,
+                  482,
+                  487,
+                  492,
+                  494,
+                  499,
+                  504,
+                  508,
+                  513,
+                  518,
+                  523,
+                  528,
+                  532
+                ]
+              },
+              "line_id": 1,
+              "confidence": 0.9,
+              "uuid": "6f13d699-0721-49f8-a891-d1ccba03b2be"
+            },
+            {
+              "bbox": [
+                448,
+                302,
+                505,
+                312
+              ],
+              "char_height": 10,
+              "char_width": 5,
+              "text": "DRAPER, UTAH",
+              "chars": {
+                "text": [
+                  "D",
+                  "R",
+                  "A",
+                  "P",
+                  "E",
+                  "R",
+                  ",",
+                  " ",
+                  "U",
+                  "T",
+                  "A",
+                  "H"
+                ],
+                "x0_list": [
+                  448,
+                  453,
+                  457,
+                  462,
+                  467,
+                  472,
+                  477,
+                  481,
+                  484,
+                  489,
+                  494,
+                  500
+                ]
+              },
+              "line_id": 2,
+              "confidence": 0.9,
+              "uuid": "180eca5c-11da-4350-906b-458d0ae9c3c8"
+            }
+          ],
+          "text": "LONE PEAK HOSPITAL \nDRAPER, UTAH",
+          "paragraph_id": 6,
+          "uuid": "f42c8d6a-22ed-4a37-b620-a0e2766db533",
+          "confidence": 0.9
+        }
+      ],
+      "page": 1,
+      "signatures": [],
+      "stamps": [],
+      "tables": [],
+      "confidence": 0.9
+    }
+  ],
+  "raw_file_id": "-",
+  "raw_file_name": "-"
+}

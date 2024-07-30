@@ -87,13 +87,11 @@ class TesseractResultTransformer:
                 custom_page_data['bbox'][2] = row['width']
                 custom_page_data['bbox'][3] = row['height']
 
+            # TODO: Question 7
             if len(row['text']):
                 block_num = row['block_num']
                 par_num = row['par_num']
-                line_num = row['line_num']
-                # check if new block, paragraph or line has started
-                if block_num != previous_block_num or par_num != previous_par_num or line_num != previous_line_num:
-                    # check if there are accumulated words and combine them as a paragraph
+                if block_num != previous_block_num or par_num != previous_par_num:
                     if current_word_list:
                         customized_paragraphs = cls.get_one_line_paragraph_list(current_word_list,
                                                                                 current_bbox_list,
@@ -104,7 +102,7 @@ class TesseractResultTransformer:
                         current_bbox_list = []
                         current_conf = 0
                         paragraph_idx += 1
-                        if par_num == previous_par_num and block_num == previous_block_num:
+                        if block_num == previous_block_num:
                             line_idx += 1
                         else:
                             line_idx = 1
@@ -154,15 +152,29 @@ class TesseractResultTransformer:
 
     @classmethod
     def get_one_line(cls, bbox_list, word_list, line_idx):
+        # TODO: Question 8
         bbox = cls.stack_bbox(bbox_list)
         text = ' '.join(word_list)
-        # todo: Question 8
+        char_height = round(sum([bb[3]-bb[1] for bb in bbox_list])/ len(bbox_list), 2)
+        char_width_list = []
+        char_list = []
+        char_x0_list = []
+        for word_idx, one_word in enumerate(word_list):
+            char_ave_width = round((bbox_list[word_idx][2]-bbox_list[word_idx][0])/len(one_word), 2)
+            char_width_list.append(char_ave_width)
+            if word_idx != 0:
+                char_x0_list.append(bbox_list[word_idx-1][2])
+                char_list.append(' ')
+            char_list.extend([char for char in one_word])
+            for i in range(len(one_word)):
+                char_x0_list.append(bbox_list[word_idx][0]+i*char_ave_width)
+        char_width = round(sum(char_width_list)/len(word_list), 2)
 
         line = {'bbox': bbox,
-                # 'char_height': char_height,
-                # 'char_width': char_width,
-                # 'chars': {'text': char_list,
-                #           'x0_list': char_x0_list},
+                'char_height': char_height,
+                'char_width': char_width,
+                'chars': {'text': char_list,
+                        'x0_list': char_x0_list},
                 'line_id': line_idx,
                 'text': text
                 }
